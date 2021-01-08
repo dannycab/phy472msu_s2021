@@ -1,34 +1,33 @@
 ---
 layout: page
-title: Syllabus
+title: Quantum Mechanics II Spring 2021 Syllabus
 permalink: index.html
 use_math: true
 ---
 
-### Quantum Mechanics II Spring 2021
+### Contact Information
 
-#### Contact Information
-
--   Instructor: [Prof. Danny Caballero](http://dannycab.github.io)
--   Pronouns: he/him/his
--   Class Meetings: MWF 12:40 PM - 1:30 PM (Online)
--   Email: <caball14@msu.edu>, cell: (517) 420-5330, office:
-    1310-A BPS
--   Office hrs: During our homework help session + "Open door" policy. I enjoy visiting and talking with you about physics.
+-   Instructor: Prof. Danny Caballero (<caball14@msu.edu>)
+    -   Pronouns: he/him/his
+    -   Office hrs: During our homework help session + "Open door" policy. I enjoy visiting and talking with you about physics.
+-   TA/Grader: Mostafa Ali (<alimosta@msu.edu>)
+    -   Pronouns: he/him/his
 -   Web page:
     [dannycab.github.io/phy472msu_s2021/](http://dannycab.github.io/phy472msu_s2021/)
--   TA/Grader: Mostafa Ali (<alimosta@msu.edu>)
+-   Class Meetings: MWF 12:40 PM - 1:30 PM (Online)
 
-##### Slack Team
+
+
+#### Slack Team
 *This term we will be using Slack for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions, I encourage you to post your questions on there. Find our class page at: <https://phy472msuspring2021.slack.com>*
 
 [Join Slack](https://join.slack.com/t/phy472msuspring2021/shared_invite/zt-kw0eaa0w-NjvF7_reVAcIA2Rwt79kKw)
 
-### Overview
+## Overview
 
 Physics 472, Quantum Mechanics II, is the second semester of our two-semester sequence of junior-level quantum mechanics. For the spring 2021 offering, the course will be taught in a hybrid format online. The course activities that are planned reflect what makes an online course more engaging and more valuable to your learning. As always, we can discuss what is working for you and what isn't openly.
 
-#### Course Philosophy
+### Course Philosophy
 
 For most of you, 472 is an elective course that you are taking to advance your knowledge of quantum mechanics. As such, this course is designed under several different principles than a standard course. Below, I provide those principles and their rationale.
 
@@ -41,14 +40,14 @@ For most of you, 472 is an elective course that you are taking to advance your k
 * 472 will illustrate that we can learn from each other
 	* Even though I've been learning physics for almost 20 years, I don't know everything. I am excited to learn from you and I hope that you are excited to learn from me and each other.
 
-#### Required purchases:
+### Required purchases:
 
 * [David H. McIntyre's Quantum Mechanics](https://www.amazon.com/Quantum-Mechanics-Paradigms-David-McIntyre/dp/0321765796) (Pearson; 2012). This book is pedagogically excellent and is one of my favorite undergrad textbooks.
 * I will not assign homework problems from the textbook, so if you own a copy of [D.J. Griffiths's Introduction to Quantum Mechanics](https://www.amazon.com/Introduction-Quantum-Mechanics-David-Griffiths/dp/1107189632), you may use it. The topical coverage is similar (albeit a different order), but Griffiths is more mathematical and less readable, in my opinion.
 
-### Course Activities
+## Course Activities
 
-#### Pre-class Preparation
+### Pre-class Preparation
 
 As we are going to try to have an engaging online class experience, you will be asked to prepare weekly for class by reading sections from McIntyre, watching some short videos on the same topics, and replying to a pre-class survey about your understanding.
 
@@ -56,7 +55,7 @@ By doing this, you will have prepared yourself to discuss the concepts and the m
 
 The [calendar](./calendar.html) will be updated weekly with the readings, videos, and a reminder of the survey link. You will also be able to find links to the survey on D2L. To receive credit, you will need to post your response to the final question of the survey (what questions do you still have?) to the appropriate D2L assignment before 11:59pm on Sundays. *These are graded for completion only. You may miss two without any grade penalty.*
 
-#### Class Meetings
+### Class Meetings
 
 We will meet three times weekly (MWF 12:40 PM - 1:30 PM Eastern Time) over Zoom. Attendance is not mandatory, but you are not likely to do well if you do not attend reguarly. Experience has shown that students who attend and engage with class meetings tend to earn 3.5-4.0s in my upper-level class. I do want class meetings to be engaging and useful for you, too, so I will try to my best to make sure that is the case.
 
@@ -66,7 +65,7 @@ In class, we will typically start with a brief discussion of the pre-class surve
 
 My aim for our class meetings is that you work with the mathematics and concepts that we are learning about and that you feel comfortable asking questions to further your own understanding.
 
-#### Homework
+### Homework
 
 There will be a homework due every Friday by 5pm. Late homework can't be accepted once solutions are posted - but, your lowest score will be dropped. Homework is exceedingly important for developing an understanding of the course material, not to mention building skills in complex physical and mathematical problem solving. They will require considerable time and personal effort this term! *Your lowest homework grade will be dropped.*
 
@@ -86,25 +85,25 @@ You will turn in homework sets using [Gradescope](https://www.gradescope.com/). 
 
 *I strongly encourage collaboration*, an essential skill in science and engineering (and highly valued by employers!) Social interactions are critical to scientists' success -- most good ideas grow out of discussions with colleagues, and essentially all physicists work as part of a group. Find partners and work on homework together. However, it is also important that you OWN the material. I strongly suggest you start homework by yourself (and that means really making an extended effort on every problem). Then work with a group, and finally, finish up on your own -- write up your own work, in your own way. There will also be time for peer discussion during classes -- as you work together, try to help your partners get over confusions, listen to them, ask each other questions, critique, teach each other. You will learn a lot this way! For all assignments, the work you turn in must in the end be your own: in your own words, reflecting your own understanding. (If, at any time, for any reason, you feel disadvantaged or isolated, contact me and I can discretely try to help arrange study groups.)
 
-#### Help Session
+### Help Session
 
 Help sessions/office hours are to facilitate your learning. We encourage attendance - plan on working in small groups, our role will be as learning coaches. The sessions are homework-centric, but we will not be explicitly telling anyone how to do the homework (how would that help you learn?) I strongly encourage you to start all problems on your own. If you come to help sessions "cold", the value of homework to you will be greatly reduced.
 
 We will schedule these sessions after the first week of class.
 
-#### Take-Home Quizzes
+### Take-Home Quizzes
 
 You will have take-home quizzes this semester that cover the material discussed in the previous few weeks. The quiz will take the form of a typical exam-style question -- more straight-forward than your homework questions with not much substantive calculations. I will inform you of the type and topic of the in-class quiz on the a week prior to the quiz, so you will have a week to prepare should you want. Of course, the quiz is open note, open book, and open internet. You should not collaborate with other students on the quiz and any work you turn in, must be your own. You will have 24 hours to complete the quizzes. Quizzes will be turned in using Gradescope. There will five of these quizzes. *Your lowest quiz grade will be dropped.*
 
-##### Quiz Re-writes
+#### Quiz Re-writes
 
 Once the quizzes are graded, if you would like to earn back 30% of the points that you lost. You may rework the quiz and explain what your thinking was at the time of the quiz and how it changed as a result of better understanding the topic. You may collaborate on quiz re-writes.
 
-#### Final Project
+### Final Project
 
 In lieu of final examins, which are not at all representative of professional physics practice, you will produce a final project with a partner.
 
-##### Pair Project
+#### Pair Project
 
 The final project is a team project that you will complete with a partner. It is meant to mimic the common practice of talk preparation and presentation. In a nutshell, you will conduct an original modeling project where you analytically and computationally model some quantum phenomenon of your choosing, prepare a talk on the project, and present it to your classmates and me using a recorded video. In working on this project, you will be trying to answer the following questions:
 
@@ -118,21 +117,21 @@ The final project is a team project that you will complete with a partner. It is
 
 Your video presentation is due the day of our final exam (we will not meet for the exam). You and your teammate will upload your talk for your classmates and myself. Your presentation will be graded by me. But, you will also be evaluted by your peers. Your participation in the evaluation of your classmates' presentations counts towards your grade on your final. There will also be a self-reflection/evaluation component to this assignment that asks you: Who did what? What did you learn? What did you want to learn more about? What was straight-forward? What was more difficult? Completion of this self-reflection/evaluation will also count towards the overall grade on your final.
 
-##### Grading the pair project
+#### Grading the pair project
 
 A rubric will be posted along with additional instructions soon.
 
-### Grading
+## Grading
 
-| Activity                              |            Date           | Percent of Grade |
-|---------------------------------------|:-------------------------:|-----------------:|
-| Weekly Pre-Class Preparation          | Due Sunday night          |              10% |
-| Homework (14 total; 1 dropped)        | Due Fri by 5pm            |              40% |
-| In-Class Quizzes  (5 total; 1 dropped)| Roughly every 3 weeks     |              30% |
-| Final Project                         | Mon Apr 26                |              20% |
+| Activity                              | | |            Date           | | | Percent of Grade |
+|---------------------------------------|-|-|:-------------------------:|-|-|-----------------:|
+| Weekly Pre-Class Preparation          | | | Due Sunday night          | | |              10% |
+| Homework (14 total; 1 dropped)        | | | Due Fri by 5pm            | | |              40% |
+| In-Class Quizzes  (5 total; 1 dropped)| | | Roughly every 3 weeks     | | |              30% |
+| Final Project                         | | | Mon Apr 26                | | |              20% |
 
 
-#### Comments on preparation:
+### Comments on preparation:
 
 Physics 472 covers material you might have seen before (Many of the topics
 stem from PHY 215 material) but at a higher level of conceptual and
@@ -159,7 +158,7 @@ other faculty teaching upper division physics in the past:
 greatest intellectual achievements of humans. Don't be surprised if you
 have to think hard and work hard to master the material.**
 
-### Commitment to an Inclusive Classroom
+## Commitment to an Inclusive Classroom
 
 I am committed to creating an inclusive classroom - one where you and your classmates
 feel comfortable, intellectually challenged, and able to speak up about your ideas
@@ -177,7 +176,7 @@ or please tell the undergraduate department chair,
 Stuart Tessmer (<tessmer@msu.edu>), who I have informed to tell me about any such incidents
 without conveying student information to me.
 
-### Confidentiality and Mandatory Reporting
+## Confidentiality and Mandatory Reporting
 
 College students often experience issues that may interfere with academic success such as academic stress, sleep problems, juggling responsibiities, life events, relationship concerns, or feelings of anxiety, hopelessness, or depression.
 As your instructor, one of my responsibilities is to help create a safe learning environment and to support you through these situations and experiences.
@@ -190,10 +189,10 @@ about criminal activity on MSU's campus with the University including the Office
 
 **Students may speak to someone confidentially by contacting MSU Counseling and Psychiatric Service (CAPS) (caps.msu.edu, 517-355-8270), MSU's 24-hour Sexual Assault Crisis Line (endrape.msu.edu, 517-372-6666), or Olin Health Center (olin.msu.edu, 517-884-6546).**
 
-### Spartan Code of Honor Academic Pledge
+## Spartan Code of Honor Academic Pledge
 
 As a Spartan, I will strive to uphold values of the highest ethical standard. I will practice honesty in my work, foster honesty in my peers, and take pride in knowing that honor is worth more than grades. I will carry these values beyond my time as a student at Michigan State University, continuing the endeavor to build personal integrity in all that I do.
 
-### Handling Emergency Situations
+## Handling Emergency Situations
 
 *In the event of an emergency arising within the classroom, Prof. Caballero will notify you of what actions that may be required to ensure your safety. It is the responsibility of each student to understand the evacuation, “shelter-in-place,” and “secure-in-place” guidelines posted in each facility and to act in a safe manner. You are allowed to maintain cellular devices in a silent mode during this course, in order to receive emergency SMS text, phone or email messages distributed by the university. When anyone receives such a notification or observes an emergency situation, they should immediately bring it to the attention of Prof. Caballero in a way that causes the least disruption. If an evacuation is ordered, please ensure that you do it in a safe manner and facilitate those around you that may not otherwise be able to safely leave. When these orders are given, you do have the right as a member of this community to follow that order. Also, if a shelter-in-place or secure-in-place is ordered, please seek areas of refuge that are safe depending on the emergency encountered and provide assistance if it is advisable to do so.*
