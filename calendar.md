@@ -12,7 +12,7 @@ use_math: true
 
 |  Week   |  |  |  Dates            |  |  |  | Topic/Readings                                       |  |  |  | Homework Assigned  |  |  |  | Quiz Assigned |
 |:-------:|--|--|:-----------------:|--|--|--|:----------------------------------------------------:|--|--|--|:------------------:|--|--|--|:-------------:|
-| 0       |  |  | 11 Jan - 15 Jan   |  |  |  | QM 1; Chapters 1-4                                   |  |  |  | Review Activities  |  |  |  |               |
+| 0       |  |  | 11 Jan - 15 Jan   |  |  |  | QM 1; Chapters 1-4                                   |  |  |  | [Review Activities](./notes/week0.html)  |  |  |  |               |
 | 1       |  |  | 18 Jan - 22 Jan   |  |  |  | QM 1; Chapters 1-4                                   |  |  |  | Homework 1         |  |  |  |               |
 | 2       |  |  | 25 Jan - 29 Jan   |  |  |  | Particle in a Box; 5.1-5.4                           |  |  |  | Homework 2         |  |  |  | Quiz 1        |
 | 3       |  |  | 01 Feb - 05 Jan   |  |  |  | Finite Square Well; 5.5-5.7                          |  |  |  | Homework 3         |  |  |  |               |

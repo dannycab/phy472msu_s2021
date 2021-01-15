@@ -31,3 +31,14 @@ In the $\ket{1} \doteq \begin{bmatrix} 1 \cr 0 \cr 0 \end{bmatrix}$, $\ket{2} \d
 2. Diagonalize $H$ and find the energy eigenvalues. You should find three distinct values ($E_1 - ?$, $E_0$, and $E_1 + ?$). What is the value of question mark?
 3. Sketch an energy level diagram for this system. You can assume $E_0 < E_1$ and $A < (E_1-E_0)$. What is the ground state, the first excited state, the second excited state? How much energy would be needed to make the transition between the ground state and the two different excited states?
 4. Now that you have found the energy eigenvalues, use those eigenvalues to determine the energy eigenstates in terms of the $\ket{1}$, $\ket{2}$, $\ket{3}$ basis. Which eigenstate corresponds to the ground state? The first excited state? The second excited state?
+
+### 3. Spin Games
+
+Diagonalization is one of the key processes for quantum mechanics; it is needed to find the eigenvalues and eigenvectors of operators. Two by two matrices are relatively easy to diagonalize analytically as you typically solve quadratic questions. Higher order operators are more challenging to diagonalize because with each new dimension you introduce an additional term in the polynomial you attempt to solve. In this problem, you will diagonalize the $S_x$ operator for a spin 1 system.
+
+$$S_x \doteq \dfrac{\hbar}{\sqrt{2}}\begin{bmatrix} 0 & 1 & 0 \cr 1 & 0 & 1 \cr 0 & 1 & 0 \end{bmatrix}$$
+
+1. Diagonalize $S_x$ to find the eigenvalues of the operator. What is the order of the polynomial you have to solve? Why does that make sense?
+2. Using these eigenvalues, find the eigenvectors of the $S_x$ operator.
+3. Can you measure $S_x$ and $S_z$ at the same time? Why or why not?
+4. Compute the commutator $[S_x,S_z]$. What does that result tell you about the uncertainty principle as it relates to a spin-1 system?

@@ -17,3 +17,33 @@ For this week, I encourage you strongly to read Chapters 1-4 of McIntyre, which 
 [**Week 0 Activity**](week0.html)
 
 ----
+
+## Week 1 - Reminders of QM 1
+
+### Pre-class survey (Due Tuesday Jan 19th)
+
+* Read through the posted notes (below) and work the [Week 0 Activity](week0.html).
+* Complete the [pre-class survey for Week 1](https://msu.co1.qualtrics.com/jfe/form/SV_6gSvFNnmkbUANOl) by Tuesday Jan 19th at 11:59pm.
+* Make sure to copy your questions about this week's notes in the [D2L week 1 pre-class assignment](https://d2l.msu.edu) by 11:59pm on Tuesday Jan 19th to receive credit.
+
+### Course Notes & Videos
+
+*No videos this week as it is a review week*
+
+* [**01 Quantum State Vectors (PDF)**](./handwritten/01 - Quantum State Vectors.pdf)
+* [**02 Formalism (PDF)**](./handwritten/02 - Formalism.pdf)
+* [**03 Schrodinger Time Evolution (PDF)**](./handwritten/03 - Schrodinger Time Evolution.pdf)
+
+### In-Class Activities
+
+* Day 1 - Wed. Jan 20th
+* Day 2 - Fri. Jan 22nd
+
+### Homework
+
+* Homework 1 (Due Friday Jan 29th)
+* Turn in the paper-based homework via [Gradscope](https://www.gradescope.com/).
+* Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/u3J2phx9zlkCZXfpzJaR).
+
+
+----
