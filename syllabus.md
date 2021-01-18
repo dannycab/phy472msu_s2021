@@ -14,7 +14,7 @@ use_math: true
     -   Pronouns: he/him/his
 -   Web page:
     [dannycab.github.io/phy472msu_s2021/](http://dannycab.github.io/phy472msu_s2021/)
--   Class Meetings: MWF 12:40 PM - 1:30 PM (Online)
+-   Class Meetings: MWF 12:40 PM - 1:30 PM (Online) [Zoom link](https://msu.zoom.us/j/96973441781)
 
 
 
