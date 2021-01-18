@@ -9,7 +9,7 @@ use_math: true
 
 -   Instructor: Prof. Danny Caballero (<caball14@msu.edu>)
     -   Pronouns: he/him/his
-    -   Office hrs: During our homework help session + "Open door" policy. I enjoy visiting and talking with you about physics.
+    -   Office hrs: During our homework help session + "Open door" policy ([Request meeting through calend.ly](http://calend.ly/dannycab)). 
 -   TA/Grader: Mostafa Ali (<alimosta@msu.edu>)
     -   Pronouns: he/him/his
 -   Web page:
