@@ -4,6 +4,8 @@ title: Homework 1 (Due Jan 29th)
 use_math: true
 ---
 
+[[PDF]](./homework1.pdf)
+
 This first homework set is meant to remind you of the main concepts from Quantum 1. It focuses on spin, operators, diagonalization and the formalism of kets and linear algebra. We will build on all of these tools and ideas this semester, so you should make sure you have these ideas down before next week. In addition, there's a couple computational problem that are meant to introduce you to the linear algebra package for Python.
 
 ### 1. Spin 1/2; let's goooo

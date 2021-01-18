@@ -65,6 +65,14 @@
 \begin{document}
 \maketitle
 
+This first homework set is meant to remind you of the main concepts from
+Quantum 1. It focuses on spin, operators, diagonalization and the
+formalism of kets and linear algebra. We will build on all of these
+tools and ideas this semester, so you should make sure you have these
+ideas down before next week. In addition, there's a couple computational
+problem that are meant to introduce you to the linear algebra package
+for Python.
+
 \hypertarget{spin-12-lets-goooo}{%
 \subsubsection{1. Spin 1/2; let's goooo}\label{spin-12-lets-goooo}}
 
@@ -95,13 +103,12 @@ spin down (\(\ket{-}\)).
   What are we assuming about particles in the beam when we do this?
 \item
   Write the normalized state vector from part 3 using the linear algebra
-  representation. That is, using
-  $\ket{+} \doteq \begin{bmatrix} 1 \cr 0 \end{bmatrix}$ and $\ket{-} \doteq \begin{bmatrix} 0 \cr 1\end{bmatrix}$.
+  representation. That is, using \(\ket{+} \doteq \begin{bmatrix} 1 \cr 0 \end{bmatrix}\) and \(\ket{-} \doteq \begin{bmatrix} 0 \cr 1\end{bmatrix}\).
 \item
-  Using the spin matrix for $S_z \doteq \dfrac{\hbar}{2} \begin{bmatrix} 1 & 0 \cr 0 & -1 \end{bmatrix}$, calculate the expectation value, \(\braket{S_z}\). How does you
+  Using the spin matrix for \(S\_z \doteq \dfrac{\hbar}{2}\begin{bmatrix} 1 & 0 \cr 0 & -1 \end{bmatrix}\), calculate the expectation value, \(\braket{S_z}\). How does you
   answer compare to part 2?
 \item
-  Now let's use the $S_x$ spin matrix, $S_x \doteq \dfrac{\hbar}{2}\begin{bmatrix} 0 & 1 \cr 1 & 0 \end{bmatrix}$, to calculate the expectation value, \(\braket{S_x}\). What does
+  Now let's use the \(S_x\) spin matrix, \(S\_x \doteq \dfrac{\hbar}{2}\begin{bmatrix} 0 & 1 \cr 1 & 0 \end{bmatrix}\), to calculate the expectation value, \(\braket{S_x}\). What does
   the sign of this expectation value tell you about the relative
   probabilities of the x-component of the spin angular momentum? That
   is, how do \(P_{+x}\) and \(P_{-x}\) compare?
@@ -167,5 +174,122 @@ Hamiltonian is NOT diagonal.
   \(\ket{2}\), \(\ket{3}\) basis. Which eigenstate corresponds to the
   ground state? The first excited state? The second excited state?
 \end{enumerate}
+
+\hypertarget{spin-games}{%
+\subsubsection{3. Spin Games}\label{spin-games}}
+
+Diagonalization is one of the key processes for quantum mechanics; it is
+needed to find the eigenvalues and eigenvectors of operators. Two by two
+matrices are relatively easy to diagonalize analytically as you
+typically solve quadratic questions. Higher order operators are more
+challenging to diagonalize because with each new dimension you introduce
+an additional term in the polynomial you attempt to solve. In this
+problem, you will diagonalize the \(S_x\) operator for a spin 1 system.
+
+\[S_x \doteq \dfrac{\hbar}{\sqrt{2}}\begin{bmatrix} 0 & 1 & 0 \cr 1 & 0 & 1 \cr 0 & 1 & 0 \end{bmatrix}\]
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Diagonalize \(S_x\) to find the eigenvalues of the operator. What is
+  the order of the polynomial you have to solve? Why does that make
+  sense?
+\item
+  Using these eigenvalues, find the eigenvectors of the \(S_x\)
+  operator.
+\item
+  Can you measure \(S_x\) and \(S_z\) at the same time? Why or why not?
+\item
+  Compute the commutator \([S_x,S_z]\). What does that result tell you
+  about the uncertainty principle as it relates to a spin-1 system?
+\end{enumerate}
+
+\hypertarget{time-evolution}{%
+\subsubsection{4. Time Evolution}\label{time-evolution}}
+
+General time evolution of states is hard, but when the Hamiltonian is
+time independent and we know the energy eigenstates, time evolution is
+pretty much a procedural calculation (just multiply by
+\(e^\frac{-i E_n t}{\hbar}\)). However, we have to have the appropriate
+energy eigenstates, which can be tricky. Let's explore how we get there
+with a system where the energy eigenstates are not as straightforward.
+
+Consider a spin-1/2 particle that is allowed to evolve in a uniform
+magnetic field. The particle is initially in the state
+\(\ket{\psi(0)} = \ket{+}_n\) where
+\(\hat{n} = (\hat{x}+\hat{y})/\sqrt{2}\). The magnetic field that the
+particle is placed in is given by
+\(\mathbf{B} = B_0 (\hat{x}+\hat{z})/\sqrt{2}\).
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  In this situation, the state vector is not an energy eigenvector; the
+  state vector is not aligned to the magnetic field. We first need to
+  write \(\ket{\psi(0)}\) in the usual \(\ket{+}, \ket{-}\) basis. In
+  general,
+  \(\ket{n}_+ = \cos\frac{\theta}{2}\ket{+} + e^{i\phi}\sin\frac{\theta}{2}\ket{-}\).
+  Sketch the initial state vector in 3D space and determine \(\theta\)
+  and \(\phi\). Write down \(\ket{\psi(0)}\) in the usual
+  \(\ket{+}, \ket{-}\) basis.
+\item
+  As the particle has a magnetic moment, it will tend to align with the
+  magnetic field, which does not point in the direction of the initial
+  state vector. So, we also need to determine the initial state in terms
+  of the basis of the magnetic field direction. This is the energy basis
+  for this problem, so we can use our simple expansion with exponential
+  terms (with \(\pm \hbar \omega/2\)). (Recall: finding the state in the
+  energy basis of the problem makes it easy for us to use this
+  expansion.). In general, the energy basis states are given by:
+  \[\ket{+}_{n'} = \cos\frac{\theta}{2}\ket{+} + e^{i\phi}\sin\frac{\theta}{2}\ket{-}\]
+  and
+  \[\ket{-}_{n'} = \cos\frac{\theta}{2}\ket{+} - e^{i\phi}\sin\frac{\theta}{2}\ket{-}\]
+  where \(\hat{n}' = (\hat{x}+\hat{z})/\sqrt{2}\). Sketch the magnetic
+  field field vector in 3D space and determine \(\theta\) and \(\phi\).
+  Write down \(\ket{\psi(0)}\) in the \(\ket{+}_{n'}, \ket{-}_{n'}\)
+  basis; you will need to use projection operators and/or the closure
+  relationship.
+\item
+  Now that you have \(\ket{\psi(0)}\) in the energy
+  (\(\ket{+}_{n'}, \ket{-}_{n'}\)) basis, use the exponential expansion
+  to find \(\ket{\psi(t)}\).
+\item
+  Finally, compute the time dependent probability of measuring
+  \(S_y = +\hbar/2\). You should find that it is proportional to:
+  \(2 + \sqrt{2}\cos\omega t + \sin \omega t\). Given that it is time
+  dependent, what does that tell you about the state (re: stationary
+  states)?
+\end{enumerate}
+
+\hypertarget{jupyter-and-linear-algebra}{%
+\subsubsection{5. Jupyter and Linear
+Algebra}\label{jupyter-and-linear-algebra}}
+
+\textbf{You will turn in this question using a
+\href{https://www.dropbox.com/request/u3J2phx9zlkCZXfpzJaR}{Dropbox file
+request}. Turn in the notebook, not a PDF of it.}
+
+Python is a powerful and flexible programming language that can be used
+to solve many kinds of scientific problems. The wide variety of modules
+and libraries that are available for Python have specific uses for
+particular kinds of problems. In this problem, you will learn to use the
+\texttt{numpy} module and the associated \texttt{linalg} library to do
+common linear algebra manipulations that readily appear in quantum
+mechanics problems. In so doing, you will solve homework problem 1
+again, but this time using Python. The idea is that while most of the
+homework problems you work are analytically tractable and not terribly
+cumbersome, other problems you might encounter will not be and using
+something like \texttt{numpy.linalg} will be very useful. I recommend
+using \href{https://www.anaconda.com/products/individual}{Anaconda
+Python} as it has all the libraries and modules we need.
+
+For this assignment, download this
+\href{./notebooks/Homework1_Problem5_STUDENT.ipynb}{Jupyter notebook}
+and work through the notebook. All the instructions appear in the
+notebook. The design is such that you are shown how to do some
+calculation, and then asked to translate that calculation to the problem
+at hand.
 
 \end{document}

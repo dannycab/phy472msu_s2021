@@ -19,3 +19,6 @@ Untitled.ipynb
 # TeX files
 *.aux
 *.log
+*.fls
+*.synctex.gz
+*.fdb_latexmk
