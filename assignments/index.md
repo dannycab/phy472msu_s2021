@@ -5,4 +5,9 @@ permalink: assignments/index.html
 use_math: true
 ---
 
-## Coming Soon.
+## Reminder about homework turn ins
+Analytical (pencil and paper) homework is turned in using [Gradescope](gradescope.com). Jupyter notebooks are turned in using the appropriate Dropbox turn in link embedded in the assignment.
+
+## List of Homework Assignments
+
+* [Homework 1 (Due Jan 29th)](./homework1.html)

@@ -32,7 +32,7 @@ Physics 472, Quantum Mechanics II, is the second semester of our two-semester se
 For most of you, 472 is an elective course that you are taking to advance your knowledge of quantum mechanics. As such, this course is designed under several different principles than a standard course. Below, I provide those principles and their rationale.
 
 * 472 should help you learn the central tenets of Quantum Mechanics
-	* This course provides the conclusion of the story started in 471. In 471, you learned about what seperates quantum mechanics from classical mechanics through observations of Stern-Gerlach experiments; you learned some of the formalism of quantum mechanics through the concept of spin; and you begin to look at the time evolution of state vectors. In 472, we will build on that foundation to explore the position and momentum representation of quantum systems; we will invesigate a larger theory of angular momentum for which spin plays a part; and we will investigate canonical examples of quantum systems like hydrogen atom and the quantum harmonic oscillator as well as qhat happens when we perturb them. This course should help you see how the basic formalism of quantum mechanics can be extended to more complex systems.  Because quantum mechanics is such a broad topic, we will cover the canonical elements in class and you will research advanced topics and share them with your class mates.
+	* This course provides the conclusion of the story started in 471. In 471, you learned about what separates quantum mechanics from classical mechanics through observations of Stern-Gerlach experiments; you learned some of the formalism of quantum mechanics through the concept of spin; and you begin to look at the time evolution of state vectors. In 472, we will build on that foundation to explore the position and momentum representation of quantum systems; we will investigate a larger theory of angular momentum for which spin plays a part; and we will investigate canonical examples of quantum systems like hydrogen atom and the quantum harmonic oscillator as well as what happens when we perturb them. This course should help you see how the basic formalism of quantum mechanics can be extended to more complex systems.  Because quantum mechanics is such a broad topic, we will cover the canonical elements in class and you will research advanced topics and share them with your class mates.
 * 472 should be a celebration of your knowledge
 	* For many of you, this course concludes your study of physics at MSU. What you have achieved in the last four years should be celebrated and enjoyed. This course will provide ample opportunities for you to share what things you know and what things you are learning with me and with each other.
 * 472 should give you opportunities to engage in professional practice
@@ -57,7 +57,7 @@ The [calendar](./calendar.html) will be updated weekly with the readings, videos
 
 ### Class Meetings
 
-We will meet three times weekly (MWF 12:40 PM - 1:30 PM Eastern Time) over Zoom. Attendance is not mandatory, but you are not likely to do well if you do not attend reguarly. Experience has shown that students who attend and engage with class meetings tend to earn 3.5-4.0s in my upper-level class. I do want class meetings to be engaging and useful for you, too, so I will try to my best to make sure that is the case.
+We will meet three times weekly (MWF 12:40 PM - 1:30 PM Eastern Time) over Zoom. Attendance is not mandatory, but you are not likely to do well if you do not attend regularly. Experience has shown that students who attend and engage with class meetings tend to earn 3.5-4.0s in my upper-level class. I do want class meetings to be engaging and useful for you, too, so I will try to my best to make sure that is the case.
 
 We will use a combination of large class meetings and breakout rooms. In large class meetings, I would appreciate if you were muted to cut down on background noise while others are speaking. You may use the chat, raise hand feature, or Slack as you see fit. Of course, you may also unmute yourself to ask a question or make a point. If you are comfortable with having your camera on during class, please do so. If not, please feel free to add an image of your liking (photo of yourself, illustration, etc.).
 
@@ -101,7 +101,7 @@ Once the quizzes are graded, if you would like to earn back 30% of the points th
 
 ### Final Project
 
-In lieu of final examins, which are not at all representative of professional physics practice, you will produce a final project with a partner.
+In lieu of final exams, which are not at all representative of professional physics practice, you will produce a final project with a partner.
 
 #### Pair Project
 
@@ -115,7 +115,7 @@ The final project is a team project that you will complete with a partner. It is
 - What are the limitations of what you have done? What are some remaining open questions?
 - What did each member of your pair contribute?
 
-Your video presentation is due the day of our final exam (we will not meet for the exam). You and your teammate will upload your talk for your classmates and myself. Your presentation will be graded by me. But, you will also be evaluted by your peers. Your participation in the evaluation of your classmates' presentations counts towards your grade on your final. There will also be a self-reflection/evaluation component to this assignment that asks you: Who did what? What did you learn? What did you want to learn more about? What was straight-forward? What was more difficult? Completion of this self-reflection/evaluation will also count towards the overall grade on your final.
+Your video presentation is due the day of our final exam (we will not meet for the exam). You and your teammate will upload your talk for your classmates and myself. Your presentation will be graded by me. But, you will also be evaluated by your peers. Your participation in the evaluation of your classmates' presentations counts towards your grade on your final. There will also be a self-reflection/evaluation component to this assignment that asks you: Who did what? What did you learn? What did you want to learn more about? What was straight-forward? What was more difficult? Completion of this self-reflection/evaluation will also count towards the overall grade on your final.
 
 #### Grading the pair project
 

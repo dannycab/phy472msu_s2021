@@ -4,6 +4,8 @@ title: Homework 1 (Due Jan 29th)
 use_math: true
 ---
 
+This first homework set is meant to remind you of the main concepts from Quantum 1. It focuses on spin, operators, diagonalization and the formalism of kets and linear algebra. We will build on all of these tools and ideas this semester, so you should make sure you have these ideas down before next week. In addition, there's a couple computational problem that are meant to introduce you to the linear algebra package for Python.
+
 ### 1. Spin 1/2; let's goooo
 
 Consider a beam of spin-1/2 particles that are sent through a Stern-Gerlach device. The device measures the z-component of the spin angular momentum of the particles. After a long time, one quarter ($\frac{1}{4}$) of the particles are observed to be spin up ($\ket{+}$) and three quarters ($\frac{3}{4}$) are observed to be spin down ($\ket{-}$).
@@ -42,3 +44,26 @@ $$S_x \doteq \dfrac{\hbar}{\sqrt{2}}\begin{bmatrix} 0 & 1 & 0 \cr 1 & 0 & 1 \cr 
 2. Using these eigenvalues, find the eigenvectors of the $S_x$ operator.
 3. Can you measure $S_x$ and $S_z$ at the same time? Why or why not?
 4. Compute the commutator $[S_x,S_z]$. What does that result tell you about the uncertainty principle as it relates to a spin-1 system?
+
+### 4. Time Evolution
+
+General time evolution of states is hard, but when the Hamiltonian is time independent and we know the energy eigenstates, time evolution is pretty much a procedural calculation (just multiply by $e^\frac{-i E_n t}{\hbar}$). However, we have to have the appropriate energy eigenstates, which can be tricky. Let's explore how we get there with a system where the energy eigenstates are not as straightforward.
+
+Consider a spin-1/2 particle that is allowed to evolve in a uniform magnetic field. The particle is initially in the state $\ket{\psi(0)} = \ket{+}_n$ where $\hat{n} = (\hat{x}+\hat{y})/\sqrt{2}$. The magnetic field that the particle is placed in is given by $\mathbf{B} = B_0 (\hat{x}+\hat{z})/\sqrt{2}$.
+
+1. In this situation, the state vector is not an energy eigenvector; the state vector is not aligned to the magnetic field. We first need to write $\ket{\psi(0)}$ in the usual $\ket{+}, \ket{-}$ basis. In general, $\ket{n}_+ = \cos\frac{\theta}{2}\ket{+} + e^{i\phi}\sin\frac{\theta}{2}\ket{-}$. Sketch the initial state vector in 3D space and determine $\theta$ and $\phi$. Write down $\ket{\psi(0)}$ in the usual $\ket{+}, \ket{-}$ basis.
+2. As the particle has a magnetic moment, it will tend to align with the magnetic field, which does not point in the direction of the initial state vector. So, we also need to determine the initial state in terms of the basis of the magnetic field direction. This is the energy basis for this problem, so we can use our simple expansion with exponential terms (with $\pm \hbar \omega/2$). (Recall: finding the state in the energy basis of the problem makes it easy for us to use this expansion.). In general, the energy basis states are given by:
+$$\ket{+}_{n'} = \cos\frac{\theta}{2}\ket{+} + e^{i\phi}\sin\frac{\theta}{2}\ket{-}$$
+and
+$$\ket{-}_{n'} = \cos\frac{\theta}{2}\ket{+} - e^{i\phi}\sin\frac{\theta}{2}\ket{-}$$ where $\hat{n}' = (\hat{x}+\hat{z})/\sqrt{2}$. Sketch the magnetic field field vector in 3D space and determine $\theta$ and $\phi$.
+Write down $\ket{\psi(0)}$ in the $$\ket{+}_{n'}, \ket{-}_{n'}$$ basis; you will need to use projection operators and/or the closure relationship.
+3. Now that you have $\ket{\psi(0)}$ in the energy ($$\ket{+}_{n'}, \ket{-}_{n'}$$) basis, use the exponential expansion to find $\ket{\psi(t)}$.
+4. Finally, compute the time dependent probability of measuring $S_y = +\hbar/2$. You should find that it is proportional to: $2 + \sqrt{2}\cos\omega t + \sin \omega t$. Given that it is time dependent, what does that tell you about the state (re: stationary states)?
+
+### 5. Jupyter and Linear Algebra
+
+**You will turn in this question using a [Dropbox file request](https://www.dropbox.com/request/u3J2phx9zlkCZXfpzJaR). Turn in the notebook, not a PDF of it.**
+
+Python is a powerful and flexible programming language that can be used to solve many kinds of scientific problems. The wide variety of modules and libraries that are available for Python have specific uses for particular kinds of problems. In this problem, you will learn to use the `numpy` module and the associated `linalg` library to do common linear algebra manipulations that readily appear in quantum mechanics problems. In so doing, you will solve homework problem 1 again, but this time using Python. The idea is that while most of the homework problems you work are analytically tractable and not terribly cumbersome, other problems you might encounter will not be and using something like `numpy.linalg` will be very useful. I recommend using [Anaconda Python](https://www.anaconda.com/products/individual) as it has all the libraries and modules we need.
+
+For this assignment, download this [Jupyter notebook](./notebooks/Homework1_Problem5_STUDENT.ipynb) and work through the notebook. All the instructions appear in the notebook. The design is such that you are shown how to do some calculation, and then asked to translate that calculation to the problem at hand.
