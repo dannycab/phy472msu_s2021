@@ -61,8 +61,8 @@ use_math: true
 
 ### In-Class Activities
 
-* [Day 1 - Wed. Jan 20th (Spin-1/2: Basis States, Projections, and Expectation Values)](./in-class/day1.html)
-* [Day 2 - Fri. Jan 22nd (Energy Eigenstates: Diagonalization, Time Evolution)](./in-class/day2.html)
+* [Day 1 - Wed. Jan 20th (Spin-1/2: Basis States)](./in-class/day1.html)
+* [Day 2 - Fri. Jan 22nd (Spin-1/2: Projections, and Expectation Values)](./in-class/day2.html)
 
 ### Homework
 
