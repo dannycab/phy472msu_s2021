@@ -66,7 +66,7 @@ use_math: true
 
 ### Homework
 
-* Homework 1 (Due Friday Jan 29th)
+* [Homework 1 (Due Friday Jan 29th)](../assignments/homework1.html)
 * Turn in the paper-based homework via [Gradscope](https://www.gradescope.com/).
 * Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/u3J2phx9zlkCZXfpzJaR).
 
