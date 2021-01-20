@@ -57,7 +57,7 @@ Consider a spin-1/2 particle that is allowed to evolve in a uniform magnetic fie
 2. As the particle has a magnetic moment, it will tend to align with the magnetic field, which does not point in the direction of the initial state vector. So, we also need to determine the initial state in terms of the basis of the magnetic field direction. This is the energy basis for this problem, so we can use our simple expansion with exponential terms (with $\pm \hbar \omega/2$). (Recall: finding the state in the energy basis of the problem makes it easy for us to use this expansion.). In general, the energy basis states are given by:
 $$\ket{+}_{n'} = \cos\frac{\theta}{2}\ket{+} + e^{i\phi}\sin\frac{\theta}{2}\ket{-}$$
 and
-$$\ket{-}_{n'} = \cos\frac{\theta}{2}\ket{+} - e^{i\phi}\sin\frac{\theta}{2}\ket{-}$$ where $\hat{n}' = (\hat{x}+\hat{z})/\sqrt{2}$. Sketch the magnetic field field vector in 3D space and determine $\theta$ and $\phi$.
+$$\ket{-}_{n'} = \sin\frac{\theta}{2}\ket{+} - e^{i\phi}\cos\frac{\theta}{2}\ket{-}$$ where $\hat{n}' = (\hat{x}+\hat{z})/\sqrt{2}$. Sketch the magnetic field field vector in 3D space and determine $\theta$ and $\phi$.
 Write down $\ket{\psi(0)}$ in the $$\ket{+}_{n'}, \ket{-}_{n'}$$ basis; you will need to use projection operators and/or the closure relationship.
 3. Now that you have $\ket{\psi(0)}$ in the energy ($$\ket{+}_{n'}, \ket{-}_{n'}$$) basis, use the exponential expansion to find $\ket{\psi(t)}$.
 4. Finally, compute the time dependent probability of measuring $S_y = +\hbar/2$. You should find that it is proportional to: $2 + \sqrt{2}\cos\omega t + \sin \omega t$. Given that it is time dependent, what does that tell you about the state (re: stationary states)?
