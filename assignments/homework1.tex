@@ -243,9 +243,9 @@ particle is placed in is given by
   terms (with \(\pm \hbar \omega/2\)). (Recall: finding the state in the
   energy basis of the problem makes it easy for us to use this
   expansion.). In general, the energy basis states are given by:
-  \(\ket{+}_{n'} = \cos\frac{\theta}{2}\ket{+} + e^{i\phi}\sin\frac{\theta}{2}\ket{-}\)
+  \[\ket{+}_{n'} = \cos\frac{\theta}{2}\ket{+} + e^{i\phi}\sin\frac{\theta}{2}\ket{-}\]
   and
-  \(\ket{-}_{n'} = \sin\frac{\theta}{2}\ket{+} - e^{i\phi}\cos\frac{\theta}{2}\ket{-}\)
+  \[\ket{-}_{n'} = \sin\frac{\theta}{2}\ket{+} - e^{i\phi}\cos\frac{\theta}{2}\ket{-}\]
   where \(\hat{n}' = (\hat{x}+\hat{z})/\sqrt{2}\). Sketch the magnetic
   field field vector in 3D space and determine \(\theta\) and \(\phi\).
   Write down \(\ket{\psi(0)}\) in the \(\ket{+}_{n'}, \ket{-}_{n'}\)
@@ -256,11 +256,14 @@ particle is placed in is given by
   (\(\ket{+}_{n'}, \ket{-}_{n'}\)) basis, use the exponential expansion
   to find \(\ket{\psi(t)}\).
 \item
-  Finally, compute the time dependent probability of measuring
-  \(S_y = +\hbar/2\). You should find that it is proportional to:
-  \(2 + \sqrt{2}\cos\omega t + \sin \omega t\). Given that it is time
-  dependent, what does that tell you about the state (re: stationary
-  states)?
+  Finally, we want compute the time dependent probability of measuring
+  \(S_y = +\hbar/2\). Determine \(\ket{+}_y\) in the
+  \(\ket{+}_{n'}, \ket{-}_{n'}\) basis. You will want to use projection
+  operators and/or the closure relationship.
+\item
+  \textbf{Bonus (+10 points)} Compute the time dependent probability of
+  measuring \(S_y = +\hbar/2\). Given that it is time dependent, what
+  does that tell you about the state (re: stationary states)?
 \end{enumerate}
 
 \hypertarget{jupyter-and-linear-algebra}{%

@@ -60,7 +60,8 @@ and
 $$\ket{-}_{n'} = \sin\frac{\theta}{2}\ket{+} - e^{i\phi}\cos\frac{\theta}{2}\ket{-}$$ where $\hat{n}' = (\hat{x}+\hat{z})/\sqrt{2}$. Sketch the magnetic field field vector in 3D space and determine $\theta$ and $\phi$.
 Write down $\ket{\psi(0)}$ in the $$\ket{+}_{n'}, \ket{-}_{n'}$$ basis; you will need to use projection operators and/or the closure relationship.
 3. Now that you have $\ket{\psi(0)}$ in the energy ($$\ket{+}_{n'}, \ket{-}_{n'}$$) basis, use the exponential expansion to find $\ket{\psi(t)}$.
-4. Finally, compute the time dependent probability of measuring $S_y = +\hbar/2$. You should find that it is proportional to: $2 + \sqrt{2}\cos\omega t + \sin \omega t$. Given that it is time dependent, what does that tell you about the state (re: stationary states)?
+4. Finally, we want compute the time dependent probability of measuring $S_y = +\hbar/2$. Determine $\ket{+}_y$ in the $$\ket{+}_{n'}, \ket{-}_{n'}$$ basis. You will want to use projection operators and/or the closure relationship.
+5. **Bonus (+10 points)** Compute the time dependent probability of measuring $S_y = +\hbar/2$. Given that it is time dependent, what does that tell you about the state (re: stationary states)?
 
 ### 5. Jupyter and Linear Algebra
 
