@@ -5,7 +5,7 @@ permalink: notes/index.html
 use_math: true
 ---
 
-<!-- ## Week 2 - 1D Wavefunctions and the Infinite Square Well
+## Week 2 - 1D Wavefunctions and the Infinite Square Well
 
 ### Pre-class survey (Due Sunday Jan 24th)
 
@@ -17,9 +17,9 @@ use_math: true
 
 #### Videos
 
-* [**1D Wavefunctions and the Energy Eigenvalue (YouTube)**]()
-* [**Properties of 1D Wavefunctions (YouTube)**]()
-* [**The Infinite Square Well (YouTube)**]()
+* [**Why do we need a wave function? (YouTube)**](https://www.youtube.com/watch?v=w66rG0gX60c)
+* [**Wavefunctions and the Energy Eigenvalue Equation (YouTube)**](https://www.youtube.com/watch?v=Hul3dYhZniY)
+* [**The Energy Eigenvalue Equation and Properties of 1D Wavefunctions (YouTube)**](https://www.youtube.com/watch?v=e4Cd1TgBszw)
 
 #### Notes
 
@@ -28,18 +28,18 @@ use_math: true
 
 ### In-Class Activities
 
-* Day 3 - Mon. Jan 25th
-* Day 4 - Wed. Jan 27th
 * Day 5 - Fri. Jan. 29th
+* Day 4 - Wed. Jan 27th
+* Day 3 - Mon. Jan 25th
 
 ### Homework
 
-* Homework 1 (Due Friday Jan 29th)
+* [Homework 1 (Due Friday Jan 29th)](../assignments/homework1.html)
 * Turn in the paper-based homework via [Gradscope](https://www.gradescope.com/).
 * Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/u3J2phx9zlkCZXfpzJaR).
 
 
----- -->
+----
 
 ## Week 1 - Reminders of QM 1
 
@@ -61,8 +61,8 @@ use_math: true
 
 ### In-Class Activities
 
-* [Day 1 - Wed. Jan 20th (Spin-1/2: Basis States)](./in-class/day1.html)
 * [Day 2 - Fri. Jan 22nd (Spin-1/2: Projections, and Expectation Values)](./in-class/day2.html)
+* [Day 1 - Wed. Jan 20th (Spin-1/2: Basis States)](./in-class/day1.html)
 
 ### Homework
 

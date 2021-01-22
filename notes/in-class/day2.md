@@ -10,7 +10,7 @@ For activities, I would suggest trying to use something like [Google JamBoard](h
 
 Typically, we solve spin-1/2 problems in the $S_z$ basis. This is just convention. We are free to use any choice of basis that is convenient for the problem we have at hand. By working this problem, we will dive more deeply into the idea of basis vectors, how we solve the eigenvalue problem, and why switching bases might be useful.
 
-<!-- In the $S_z$ basis, we know that we can write the $S_x$ eigenstates as,
+In the $S_z$ basis, we know that we can write the $S_x$ eigenstates as,
 
 $$\ket{+}_x = \dfrac{1}{\sqrt{2}}(\ket{+}+\ket{-})$$
 
@@ -38,4 +38,4 @@ $$S_z \doteq \dfrac{\hbar}{2} \begin{bmatrix} 0 & 1 \cr 1 & 0 \end{bmatrix}$$
 * **Question:** Consider the state: $\ket{\psi} = \dfrac{3}{5}\ket{+}_x + \dfrac{4}{5}\ket{-}$. Find the projection of $\ket{\psi}$ along the $S_x$ eigenstates.
   * **Discuss:** What do those projections tell you about the probability of measuring each of the two eigenstates?
 * **Question:** Using your preferred method, find $\braket{S_x}$ for the state $\ket{\psi}$.
-  * **Discuss:** What are you and your group still wanting to know more about for this topic? -->
+  * **Discuss:** What are you and your group still wanting to know more about for this topic?
