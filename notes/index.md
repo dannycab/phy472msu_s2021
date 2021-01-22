@@ -28,9 +28,9 @@ use_math: true
 
 ### In-Class Activities
 
-* Day 5 - Fri. Jan. 29th
-* Day 4 - Wed. Jan 27th
 * Day 3 - Mon. Jan 25th
+* Day 4 - Wed. Jan 27th
+* Day 5 - Fri. Jan. 29th
 
 ### Homework
 
@@ -61,8 +61,9 @@ use_math: true
 
 ### In-Class Activities
 
-* [Day 2 - Fri. Jan 22nd (Spin-1/2: Projections, and Expectation Values)](./in-class/day2.html)
 * [Day 1 - Wed. Jan 20th (Spin-1/2: Basis States)](./in-class/day1.html)
+* [Day 2 - Fri. Jan 22nd (Spin-1/2: Projections, and Expectation Values)](./in-class/day2.html) [[Mistake 1: Know your basis (YouTube)]](https://www.youtube.com/watch?v=H82cFoJwVVM)
+* [Handwritten Notes from Discussion](./in-class/Day_1_and_2.pdf)
 
 ### Homework
 
