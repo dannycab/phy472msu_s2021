@@ -29,6 +29,8 @@ use_math: true
 ### In-Class Activities
 
 * [Day 3 - Mon. Jan 25th](./in-class/day3.html)
+  * Class recordings [(Part 1)](https://www.youtube.com/watch?v=T6pq9TovwCg) [(Part 2)](https://www.youtube.com/watch?v=QCkHKlr5kWw)
+  * [Handwritten Notes from Discussion](./in-class/Day_3.pdf)
 * Day 4 - Wed. Jan 27th
 * Day 5 - Fri. Jan. 29th
 
