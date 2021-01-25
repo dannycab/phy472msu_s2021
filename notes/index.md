@@ -5,13 +5,47 @@ permalink: notes/index.html
 use_math: true
 ---
 
+<!-- ## Week 3 - Finite Square Well and Solving Transcendental Equations
+
+### Pre-class survey (Due Sunday Jan 31st)
+
+* Read through the posted notes and watch the posted videos (below).
+* Complete the [pre-class survey for Week 3](https://msu.co1.qualtrics.com/jfe/form/SV_6gSvFNnmkbUANOl) by Sunday Jan 31st at 11:59pm.
+* Make sure to copy your questions about this week's notes in the [D2L Week 3 pre-class assignment](https://d2l.msu.edu) by 11:59pm on Sunday Jan 31st to receive credit.
+
+### Course Notes & Videos
+
+#### Videos
+
+* Coming soon
+
+#### Notes
+
+* [**06 Finite Square Well (PDF)**](./handwritten/06 - Finite Square Well.pdf)
+* [**07 Root Finding (PDF)**](./handwritten/07 - Root Finding.pdf)
+
+### In-Class Activities
+
+* Day 6 - Mon. Feb 1st
+* Day 7 - Wed. Feb 3rd
+* Day 8 - Fri. Feb 5th
+
+### Homework
+
+* [Homework 2 (Due Friday Feb 5th)](../assignments/homework2.html)
+* Turn in the paper-based homework via [Gradscope](https://www.gradescope.com/).
+* Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/u3J2phx9zlkCZXfpzJaR).
+
+
+---- -->
+
 ## Week 2 - 1D Wavefunctions and the Infinite Square Well
 
 ### Pre-class survey (Due Sunday Jan 24th)
 
 * Read through the posted notes and watch the posted videos (below).
 * Complete the [pre-class survey for Week 2](https://msu.co1.qualtrics.com/jfe/form/SV_6gSvFNnmkbUANOl) by Sunday Jan 24th at 11:59pm.
-* Make sure to copy your questions about this week's notes in the [D2L week 2 pre-class assignment](https://d2l.msu.edu) by 11:59pm on Sunday Jan 24th to receive credit.
+* Make sure to copy your questions about this week's notes in the [D2L Week 2 pre-class assignment](https://d2l.msu.edu) by 11:59pm on Sunday Jan 24th to receive credit.
 
 ### Course Notes & Videos
 
