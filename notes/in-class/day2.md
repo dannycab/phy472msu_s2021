@@ -33,9 +33,9 @@ With this, we can determine the $S_z$ operator in the $S_x$ basis,
 
 $$S_z \doteq \dfrac{\hbar}{2} \begin{bmatrix} 0 & 1 \cr 1 & 0 \end{bmatrix}$$
 
-* **Question:** Set up the eigenvalue problem for $S_z$ and find the eigenvalues of $S_z$. Show that you can use those eigenvalues to determine the eigenstates of $S_z$ in the $S_x$ basis.
+1. **Question:** Set up the eigenvalue problem for $S_z$ and find the eigenvalues of $S_z$. Show that you can use those eigenvalues to determine the eigenstates of $S_z$ in the $S_x$ basis.
   * **Discuss:** Do your calculated eigenstates agree with your answer to the first question? How did you determine the phase relationships? What matters in determining the phase relationships? How do you know which eigenstate goes with which eigenvalue (or vice-versa)?
-* **Question:** Consider the state: $\ket{\psi} = \dfrac{3}{5}\ket{+} + \dfrac{4}{5}\ket{-}$. Find the projection of $\ket{\psi}$ along the $S_x$ eigenstates.
+2. **Question:** Consider the state: $\ket{\psi} = \dfrac{3}{5}\ket{+} + \dfrac{4}{5}\ket{-}$. Find the projection of $\ket{\psi}$ along the $S_x$ eigenstates.
   * **Discuss:** What do those projections tell you about the probability of measuring each of the two eigenstates?
-* **Question:** Using your preferred method, find $\braket{S_x}$ for the state $\ket{\psi}$.
+3. **Question:** Using your preferred method, find $\braket{S_x}$ for the state $\ket{\psi}$.
   * **Discuss:** What are you and your group still wanting to know more about for this topic?

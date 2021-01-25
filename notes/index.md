@@ -28,7 +28,7 @@ use_math: true
 
 ### In-Class Activities
 
-* Day 3 - Mon. Jan 25th
+* [Day 3 - Mon. Jan 25th](./in-class/day3.html)
 * Day 4 - Wed. Jan 27th
 * Day 5 - Fri. Jan. 29th
 
