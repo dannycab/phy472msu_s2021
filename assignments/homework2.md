@@ -30,7 +30,7 @@ Let's go back to the form of the wavefunction determined in McIntyre: $\phi_n(x)
 3. Can you use the same arguments from part 1 to determine $\langle p_x \rangle$? Why or why not?
 4. Compute $\langle p_x \rangle$ for all states. Why does this average value for $p_x$ make sense?
 
-## Time Evolution of a Superposition State
+## 3. Time Evolution of a Superposition State
 
 As we determined earlier, energy eigenstates are particularly useful when we want to see how the system evolves in time. As the infinite square well Hamiltonian is time independent, we expect that the energy eigenstates are stationary states. Let's bring this thinking to the position representation of the energy eigenstates.
 
@@ -40,5 +40,11 @@ Consider the superposition state $\ket{\psi(t=0)} = A \left(\ket{\phi_1} - \dfra
 2. In which state is the system more likely to be found? With what probability do you expect to find each state?
 3. At $t=0$ compute the expectation value of the Hamiltonian, $\langle \hat{H} \rangle$. Do this first using the ket representation, then using the full integral formalism. Comment on the relative difficulty of the two approaches and which one makes more sense to use in this case.
 4. How does $\langle \hat{H} \rangle$ from part 3 fit with your discussion in part 2?
-5. Write down the time evolution of the state in both ket and wavefunction representation.
+5. Write down the time evolution of the state in both the ket and wavefunction representation.
 6. Using the representation of your choice (recall part 3), compute $\langle \hat{H} \rangle$ for the time evolving state. How does your result compare to part 3? Why would this result make sense?
+
+### 4. Using Python to compute Eigenvalues and Eigenvectors
+
+**You will turn in this question using a [Dropbox file request](https://www.dropbox.com/request/vscBnPjYqOEUk1VyPOO0). Turn in the notebook, not a PDF of it.**
+
+For this question, download this [Jupyter notebook](./notebooks/Homework2_Problem4_STUDENT.ipynb) and work through the notebook. All the instructions appear in the notebook. The design is such that you are shown how to do some calculation, and then asked to translate that calculation to the problem at hand.
