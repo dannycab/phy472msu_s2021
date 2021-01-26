@@ -1,0 +1,201 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Homework 2 (Due Feb 5th)},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{xcolor}
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\usepackage{braket}
+\usepackage{graphicx,grffile}
+\usepackage[margin=1in]{geometry}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\title{Homework 2 (Due Feb 5th)}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+Homework 2 focuses on the position representation of the state vector
+and the infinite square well. It is a little shorter because we have a
+take home quiz this week.
+
+\hypertarget{symmetry-and-the-infinite-square-well}{%
+\subsection{1. Symmetry and the Infinite Square
+Well}\label{symmetry-and-the-infinite-square-well}}
+
+McIntyre solves the infinite square well problem where the boundaries of
+the well are 0 and \(L\). As a result, the energy eigenvalues are
+\(E_n = \dfrac{n^2\pi^2\hbar^2}{2mL^2}\) for \(n = 1,2,3,\dots\) and the
+energy eigenstates, in the position representation, are
+\(\phi_n(x) = \sqrt{\dfrac{2}{L}} \sin \dfrac{n\pi x}{L}\) for
+\(n = 1,2,3,\dots\) again.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Consider changing the boundaries from {[}0, \(L\){]} to {[}\(-L\),
+  \(L\){]}. The potential remains the same, but the well width has been
+  expanded. Without performing a calculation, determine the new energy
+  eigenstates. Explain how you determined them and discuss whether the
+  states are more or less energetic than the original system.
+\item
+  Given the change in the symmetry of the well, what functional
+  dependence do you now expect for the position representation of the
+  state vector? That is, what form should \(\phi_n\) take now? Explain
+  why this choice makes sense.
+\item
+  Write down the full form of the position representation of the state
+  vector. That is, what precisely is \(\phi_n(x)\)? Leave no
+  undetermined coefficients and make sure it is normalized. You should
+  not have to solve the infinite square well problem to determine this,
+  but use symmetry arguments.
+\item
+  Check that you answer to part 1 and part 3 make sense by using the
+  eigenvalue equation
+  \(-\dfrac{\hbar^2}{2m} \dfrac{d^2\phi_n(x)}{dx^2} = E_n \phi_n(x)\) to
+  check your results.
+\end{enumerate}
+
+\hypertarget{expectation-values}{%
+\subsection{2. Expectation Values}\label{expectation-values}}
+
+One of the things that is really frustrating about quantum mechanics is
+determining what physical meaning different things have. For example, if
+I were asked: what is the physical meaning of the wavefunction? I would
+likely answer: ??? Because the physical meaning in
+quantum mechanics stems from observables. Things like: energy, position,
+momentum, and probabilities or expectation values of making
+measurements. So, while the wavefunction is incredibly useful, its
+physical meaning comes from using it to determine observables.
+
+Let's go back to the form of the wavefunction determined in McIntyre:
+\(\phi_n(x) = \sqrt{\dfrac{2}{L}} \sin \dfrac{n\pi x}{L}\) for
+\(n = 1,2,3,\dots\)
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Sketch the first 3 states. If you were asked to determine the
+  expectation value of the position, \(\langle x \rangle\), for each of
+  these states given your sketches, what would you conclude? Explain how
+  you determined your answer.
+\item
+  Compute \(\langle x \rangle\) for all states. Comment on your result.
+\item
+  Can you use the same arguments from part 1 to determine
+  \(\langle p_x \rangle\)? Why or why not?
+\item
+  Compute \(\langle p_x \rangle\) for all states. Why does this average
+  value for \(p_x\) make sense?
+\end{enumerate}
+
+\hypertarget{time-evolution-of-a-superposition-state}{%
+\subsection{3. Time Evolution of a Superposition
+State}\label{time-evolution-of-a-superposition-state}}
+
+As we determined earlier, energy eigenstates are particularly useful
+when we want to see how the system evolves in time. As the infinite
+square well Hamiltonian is time independent, we expect that the energy
+eigenstates are stationary states. Let's bring this thinking to the
+position representation of the energy eigenstates.
+
+Consider the superposition state
+\(\ket{\psi(t=0)} = A \left(\ket{\phi_1} - \dfrac{1}{\sqrt{2}}\ket{\phi_2}\right)\)
+where \(\ket{\phi_n}\) are energy eigenstates of the infinite square
+well.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Make sure the state is normalized. Write down the normalized state
+  using ket notation.
+\item
+  In which state is the system more likely to be found? With what
+  probability do you expect to find each state?
+\item
+  At \(t=0\) compute the expectation value of the Hamiltonian,
+  \(\langle \hat{H} \rangle\). Do this first using the ket
+  representation, then using the full integral formalism. Comment on the
+  relative difficulty of the two approaches and which one makes more
+  sense to use in this case.
+\item
+  How does \(\langle \hat{H} \rangle\) from part 3 fit with your
+  discussion in part 2?
+\item
+  Write down the time evolution of the state in both the ket and
+  wavefunction representation.
+\item
+  Using the representation of your choice (recall part 3), compute
+  \(\langle \hat{H} \rangle\) for the time evolving state. How does your
+  result compare to part 3? Why would this result make sense?
+\end{enumerate}
+
+\hypertarget{using-python-to-compute-eigenvalues-and-eigenvectors}{%
+\subsection{4. Using Python to compute Eigenvalues and
+Eigenvectors}\label{using-python-to-compute-eigenvalues-and-eigenvectors}}
+
+\textbf{You will turn in this question using a
+\href{https://www.dropbox.com/request/vscBnPjYqOEUk1VyPOO0}{Dropbox file
+request}. Turn in the notebook, not a PDF of it.}
+
+For this question, download this
+\href{./notebooks/Homework2_Problem4_STUDENT.ipynb}{Jupyter notebook}
+and work through the notebook. All the instructions appear in the
+notebook. The design is such that you are shown how to do some
+calculation, and then asked to translate that calculation to the problem
+at hand.
+
+\end{document}

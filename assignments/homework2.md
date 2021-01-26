@@ -43,7 +43,7 @@ Consider the superposition state $\ket{\psi(t=0)} = A \left(\ket{\phi_1} - \dfra
 5. Write down the time evolution of the state in both the ket and wavefunction representation.
 6. Using the representation of your choice (recall part 3), compute $\langle \hat{H} \rangle$ for the time evolving state. How does your result compare to part 3? Why would this result make sense?
 
-### 4. Using Python to compute Eigenvalues and Eigenvectors
+## 4. Using Python to compute Eigenvalues and Eigenvectors
 
 **You will turn in this question using a [Dropbox file request](https://www.dropbox.com/request/vscBnPjYqOEUk1VyPOO0). Turn in the notebook, not a PDF of it.**
 
