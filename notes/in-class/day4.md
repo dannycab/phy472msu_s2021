@@ -5,7 +5,7 @@ use_math: true
 ---
 
 
-## Making Sense of the Infinite Square Solutions
+## Infinite Square Well Solutions
 
 
 By defining the position and momentum operators, $\hat{x} = x$ and $\hat{p} = -i \hbar \dfrac{d}{dx}$, we have shown that we can recast out energy eigenvalue problem, $\hat{H}\ket{\phi_n} = E_n\ket{\phi_n}$, in terms of a differential equation:
@@ -24,9 +24,5 @@ $$\displaystyle V(x) = \begin{cases}
 
 * **Question:** Let's define $k^2 = \dfrac{2mE}{\hbar^2}$ as McIntyre does. Inside the well, we have the differential equation: $\dfrac{d^2}{dx^2}\phi(x) = -k^2\phi(x)$. Determine the general solution $\phi(x)$.
   * **Discussion:** How does your solution differ from McIntyre's?
-* **Question:** You are solving a "boundary value problem", which is characterized by knowing the value of or the first derivative of a function at locations that "bound" the problem. For us, we need the wavefunction to vanish at the boundary. What happens to $\phi(x)$? rWhat condition does this put on $k$?
+* **Question:** You are solving a "boundary value problem", which is characterized by knowing the value of or the first derivative of a function at locations that "bound" the problem. For us, we need the wavefunction to vanish at the boundary. What happens to $\phi(x)$? What condition does this put on $k$?
   * **Discussion:** The position representation is continuous, but only certain functions "fit". How might you use symmetry to guess what functions would work? Why would this process be called "establishing the quantization condition"?
-* **Question:** With this $k$, what are the allowed energies? Are these energies quantized?
-  * **Discussion:** Does you answer differ substantially from McIntyre's? Why would we expect it to be relatively similar? How many energies are allowed?
-* **Question:** Consider two neighboring states ($n$ and $m$), find the energy separation ($\Delta E$) between these  states.
-  * **Discussion:** What happens to this energy separation as we tend towards higher level states? Mathematically, what happens as $n,m \rightarrow \infty$?
