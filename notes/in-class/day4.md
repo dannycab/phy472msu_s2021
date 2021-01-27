@@ -5,6 +5,9 @@ use_math: true
 ---
 
 
+## Making Sense of the Infinite Square Solutions
+
+
 By defining the position and momentum operators, $\hat{x} = x$ and $\hat{p} = -i \hbar \dfrac{d}{dx}$, we have shown that we can recast out energy eigenvalue problem, $\hat{H}\ket{\phi_n} = E_n\ket{\phi_n}$, in terms of a differential equation:
 
 $$\left(-\dfrac{\hbar^2}{2m}\dfrac{d^2}{dx^2}+V(x)\right)\phi(x) = E\phi(x)$$

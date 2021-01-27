@@ -5,7 +5,7 @@ permalink: notes/index.html
 use_math: true
 ---
 
-<!-- ## Week 3 - Finite Square Well and Solving Transcendental Equations
+## Week 3 - Finite Square Well and Solving Transcendental Equations
 
 ### Pre-class survey (Due Sunday Jan 31st)
 
@@ -17,7 +17,8 @@ use_math: true
 
 #### Videos
 
-* Coming soon
+* [**Setting up the Finite Square Well (YouTube)**](https://www.youtube.com/watch?v=SnZQPj6JoEc)
+* [**The Bisection Method for Finding Roots (YouTube**)](https://www.youtube.com/watch?v=nbYq0eMPIsY)
 
 #### Notes
 
@@ -37,7 +38,7 @@ use_math: true
 * Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/u3J2phx9zlkCZXfpzJaR).
 
 
----- -->
+----
 
 ## Week 2 - 1D Wavefunctions and the Infinite Square Well
 

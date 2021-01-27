@@ -11,4 +11,4 @@ Analytical (pencil and paper) homework is turned in using [Gradescope](gradescop
 ## List of Homework Assignments
 
 * [Homework 1 (Due Jan 29th)](./homework1.html)
-<!-- * [Homework 2 (Due Feb 5th)](./homework2.html) -->
+* [Homework 2 (Due Feb 5th)](./homework2.html)
