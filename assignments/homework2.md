@@ -23,7 +23,7 @@ McIntyre solves the infinite square well problem where the boundaries of the wel
 
 One of the things that is really frustrating about quantum mechanics is determining what physical meaning different things have. For example, if I were asked: what is the physical meaning of the wavefunction? I would likely answer: ¯\\\_(ツ)\_/¯ Because the physical meaning in quantum mechanics stems from observables. Things like: energy, position, momentum, and probabilities or expectation values of making measurements. So, while the wavefunction is incredibly useful, its physical meaning comes from using it to determine observables.
 
-Let's go back to the form of the wavefunction determined in McIntyre: $\phi_n(x) = \sqrt{\dfrac{2}{L}} \sin \dfrac{n\pi x}{L}$ for $n = 1,2,3,\dots$
+Let's go back to the form of the wavefunction determined in McIntyre (with well boundaries, $[0,L]$ ): $\phi_n(x) = \sqrt{\dfrac{2}{L}} \sin \dfrac{n\pi x}{L}$ for $n = 1,2,3,\dots$
 
 1. Sketch the first 3 states. If you were asked to determine the expectation value of the position, $\langle x \rangle$, for each of these states given your sketches, what would you conclude? Explain how you determined your answer.
 2. Compute $\langle x \rangle$ for all states. Comment on your result.
