@@ -9,7 +9,10 @@ use_math: true
 
 -   Instructor: Prof. Danny Caballero (<caball14@msu.edu>)
     -   Pronouns: he/him/his
-    -   Office hrs: During our homework help session + "Open door" policy ([Request meeting through calend.ly](http://calend.ly/dannycab)). 
+    -   Office hours:
+        - Help session on Tuesday from 1-2pm [via Zoom](https://msu.zoom.us/j/94987937511)
+        - Help session on Thursday from 3-4pm [via Zoom](https://msu.zoom.us/j/96973441781)
+        - "Open door" policy ([Request meeting through calend.ly](http://calend.ly/dannycab)).
 -   TA/Grader: Mostafa Ali (<alimosta@msu.edu>)
     -   Pronouns: he/him/his
 -   Web page:
