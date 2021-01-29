@@ -6,7 +6,7 @@ use_math: true
 ---
 
 ## Reminder about homework turn ins
-Analytical (pencil and paper) homework is turned in using [Gradescope](gradescope.com). Jupyter notebooks are turned in using the appropriate Dropbox turn in link embedded in the assignment.
+Analytical (pencil and paper) homework is turned in using [Gradescope](https://www.gradescope.com/). Jupyter notebooks are turned in using the appropriate Dropbox turn in link embedded in the assignment.
 
 ## List of Homework Assignments
 
