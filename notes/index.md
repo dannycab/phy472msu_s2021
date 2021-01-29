@@ -69,6 +69,8 @@ use_math: true
 * [Day 4 - Wed. Jan 27th](./in-class/day4.html)
   * [Handwritten Notes from Discussion](./in-class/Day_4.pdf)
 * [Day 5 - Fri. Jan. 29th](./in-class/day5.html)
+  * Class recordings [(Part 1)](https://www.youtube.com/watch?v=EyajyB_c-FM) [(Part 2)](https://www.youtube.com/watch?v=C_pDu7XsC8k)
+  * [Handwritten Notes from Discussion](./in-class/Day_5.pdf)
 
 ### Homework
 
