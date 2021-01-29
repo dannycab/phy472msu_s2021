@@ -30,11 +30,14 @@ $$\phi(x) = A \cos(kx) + B\sin(kx)$$
 
 is the general solution. Of course, there's a complex exponential version of this solution that works as well.
 
-Given the symmetry of the problem ($\phi(x) = \phi(-x)$), we should expect cosine solutions, so that we can limit our solution in this case to:
+(**This thinking is incomplete! I threw out odd solutions!!!**)
+~~Given the symmetry of the problem ($\phi(x) = \phi(-x)$), we should expect cosine solutions, so that we can limit our solution in this case to:~~ $\phi(x) = A \cos(kx)$
 
-$$\phi(x) = A \cos(kx)$$
+For this problem a slightly better choice for general solution:
 
-We can then use the boundary conditions to determine that $cos(ka/2)=0$, so that $k$ must be a half integer multiples of $\pi$. This is the quantization condition.
+$$\phi(x) = C\sin(kx+\delta)$$
+
+We can then use the boundary conditions to determine that $\sin(ka/2+\delta)=0$ and $\sin(-ka/2+\delta)=0$. These give the quantizations for $k$ and $\delta$.
 
 * **Question:** With this $k$, what are the allowed energies? Are these energies quantized?
   * **Discussion:** Does you answer differ substantially from McIntyre's? Why would we expect it to be relatively similar? How many energies are allowed?
