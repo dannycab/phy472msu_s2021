@@ -5,6 +5,42 @@ permalink: notes/index.html
 use_math: true
 ---
 
+<!-- ## Week 4 - The Free Particle
+
+### Pre-class survey (Due Sunday Feb 7th)
+
+* Read through the posted notes and watch the posted videos (below).
+* Complete the [pre-class survey for Week 4](https://msu.co1.qualtrics.com/jfe/form/SV_6gSvFNnmkbUANOl) by Sunday Feb 7th at 11:59pm.
+* Make sure to copy your questions about this week's notes in the [D2L Week 4 pre-class assignment](https://d2l.msu.edu) by 11:59pm on Sunday Feb 7th to receive credit.
+
+### Course Notes & Videos
+
+#### Videos
+
+* Coming Soon
+
+#### Notes
+
+* [**08 - The Free Particle (PDF)**](./handwritten/08 - The Free Particle.pdf)
+* [**09 - Momentum Eigenstates (PDF)**]
+* [**10 - Wavepackets: Discrete (PDF)**]
+* [**11 - Wavepackets: Continuous (PDF)**]
+
+### In-Class Activities
+
+* Day 9 - Mon. Feb 8th
+* Day 10 - Wed. Feb 10th
+* Day 11 - Fri. Feb 12th
+
+### Homework
+
+* [Homework 3 (Due Friday Feb 12th)](../assignments/homework3.html)
+* Turn in the paper-based homework via [Gradscope](https://www.gradescope.com/).
+* Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/g9rmFf1MHcaPwFWGvmcT).
+
+---- -->
+
+
 ## Week 3 - Finite Square Well and Solving Transcendental Equations
 
 ### Pre-class survey (Due Sunday Jan 31st)
@@ -35,7 +71,7 @@ use_math: true
 
 * [Homework 2 (Due Friday Feb 5th)](../assignments/homework2.html)
 * Turn in the paper-based homework via [Gradscope](https://www.gradescope.com/).
-* Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/u3J2phx9zlkCZXfpzJaR).
+* Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/vscBnPjYqOEUk1VyPOO0).
 
 
 ----
