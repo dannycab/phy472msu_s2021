@@ -22,7 +22,7 @@ use_math: true
 #### Notes
 
 * [**08 - The Free Particle (PDF)**](./handwritten/08 - The Free Particle.pdf)
-* [**09 - Momentum Eigenstates (PDF)**]
+* [**09 - Momentum Eigenstates (PDF)**](./handwritten/09 - Momentum Eigenstates.pdf)
 * [**10 - Wavepackets: Discrete (PDF)**]
 * [**11 - Wavepackets: Continuous (PDF)**]
 
