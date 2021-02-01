@@ -23,8 +23,8 @@ use_math: true
 
 * [**08 - The Free Particle (PDF)**](./handwritten/08 - The Free Particle.pdf)
 * [**09 - Momentum Eigenstates (PDF)**](./handwritten/09 - Momentum Eigenstates.pdf)
-* [**10 - Wavepackets: Discrete (PDF)**]
-* [**11 - Wavepackets: Continuous (PDF)**]
+* [**10 - Wavepackets: Discrete (PDF)**](./handwritten/10 - Wavepackets Discrete.pdf)
+* [**11 - Wavepackets: Continuous (PDF)**](./handwritten/11 - Wavepackets Continuous.pdf)
 
 ### In-Class Activities
 
