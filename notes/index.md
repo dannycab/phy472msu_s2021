@@ -63,7 +63,7 @@ use_math: true
 
 ### In-Class Activities
 
-* Day 6 - Mon. Feb 1st
+* [Day 6 - Mon. Feb 1st](./in-class/day6.html)
 * Day 7 - Wed. Feb 3rd
 * Day 8 - Fri. Feb 5th
 
