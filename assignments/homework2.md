@@ -14,14 +14,14 @@ Homework 2 focuses on the position representation of the state vector and the in
 McIntyre solves the infinite square well problem where the boundaries of the well are 0 and $L$. As a result, the energy eigenvalues are $E_n = \dfrac{n^2\pi^2\hbar^2}{2mL^2}$ for $n = 1,2,3,\dots$ and the energy eigenstates, in the position representation, are $\phi_n(x) = \sqrt{\dfrac{2}{L}} \sin \dfrac{n\pi x}{L}$ for $n = 1,2,3,\dots$ again.
 
 1. Consider changing the boundaries from [0, $L$] to [$-L$, $L$]. The potential remains the same, but the well width has been expanded. Without performing a calculation, determine the new energy eigenvalues. Explain how you determined them and discuss whether the states are more or less energetic than the original system.
-2. Given the change in the symmetry of the well, what functional dependence do you now expect for the position representation of the state vector? That is, what form should $\phi_n$ take now? Explain why this choice makes sense.
-3. Write down the full form of the position representation of the state vector. That is, what precisely is $\phi_n(x)$? Leave no undetermined coefficients and make sure it is normalized. You should not have to solve the infinite square well problem to determine this, but use symmetry arguments.
+2. Given the change in the symmetry of the well, what functional dependence do you now expect for the position representation of the state vector? That is, does a pure $\sin$ function still work? Based on what we did in class, what form should $\phi_n$ take now? Explain why this choice makes sense.
+3. Write down the full form of the position representation of the state vector. That is, what precisely is $\phi_n(x)$? Leave no undetermined coefficients and make sure it is normalized. You should not have to solve the infinite square well problem to determine this, but use symmetry arguments and boundary conditions.
 4. Check that you answer to part 1 and part 3 make sense by using the eigenvalue equation $-\dfrac{\hbar^2}{2m} \dfrac{d^2\phi_n(x)}{dx^2} = E_n \phi_n(x)$ to check your results.
 
 
 ## 2. Expectation Values
 
-One of the things that is really frustrating about quantum mechanics is determining what physical meaning different things have. For example, if I were asked: what is the physical meaning of the wavefunction? I would likely answer: ¯\\\_(ツ)\_/¯ Because the physical meaning in quantum mechanics stems from observables. Things like: energy, position, momentum, and probabilities or expectation values of making measurements. So, while the wavefunction is incredibly useful, its physical meaning comes from using it to determine observables.
+One of the things that is really frustrating about quantum mechanics is determining what physical meaning different things have. For example, if I were asked: what is the physical meaning of the wavefunction? I would likely answer: ??? Because the physical meaning in quantum mechanics stems from observables. Things like: energy, position, momentum, and probabilities or expectation values of making measurements. So, while the wavefunction is incredibly useful, its physical meaning comes from using it to determine observables.
 
 Let's go back to the form of the wavefunction determined in McIntyre (with well boundaries, $[0,L]$ ): $\phi_n(x) = \sqrt{\dfrac{2}{L}} \sin \dfrac{n\pi x}{L}$ for $n = 1,2,3,\dots$
 
