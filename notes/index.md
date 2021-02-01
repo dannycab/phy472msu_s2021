@@ -64,6 +64,8 @@ use_math: true
 ### In-Class Activities
 
 * [Day 6 - Mon. Feb 1st](./in-class/day6.html)
+  * Class recordings [(Part 1)](https://www.youtube.com/watch?v=xq11AXzSL7g) [(Part 2)](https://www.youtube.com/watch?v=eT7fUPky-9s)
+  * [Handwritten Notes from Discussion](./in-class/Day_6.pdf)
 * Day 7 - Wed. Feb 3rd
 * Day 8 - Fri. Feb 5th
 
