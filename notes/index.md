@@ -5,7 +5,7 @@ permalink: notes/index.html
 use_math: true
 ---
 
-<!-- ## Week 4 - The Free Particle
+## Week 4 - The Free Particle
 
 ### Pre-class survey (Due Sunday Feb 7th)
 
@@ -38,7 +38,7 @@ use_math: true
 * Turn in the paper-based homework via [Gradscope](https://www.gradescope.com/).
 * Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/g9rmFf1MHcaPwFWGvmcT).
 
----- -->
+----
 
 
 ## Week 3 - Finite Square Well and Solving Transcendental Equations

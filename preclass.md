@@ -7,6 +7,16 @@ use_math: true
 
 ---
 
+## Week 4
+
+### Pre-class survey (Due Sunday Feb 7th)
+
+* Read through the posted notes and watch the posted videos (below).
+* Complete the [pre-class survey for Week 4](https://msu.co1.qualtrics.com/jfe/form/SV_6gSvFNnmkbUANOl) by Sunday Feb 7th at 11:59pm.
+* Make sure to copy your questions about this week's notes in the [D2L Week 4 pre-class assignment](https://d2l.msu.edu) by 11:59pm on Sunday Feb 7th to receive credit.
+
+---
+
 ## Week 3
 
 ### Pre-class survey (Due Sunday Jan 31st)

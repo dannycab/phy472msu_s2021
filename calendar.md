@@ -15,7 +15,7 @@ use_math: true
 | 0       |  |  | 11 Jan - 15 Jan   |  |  |  | QM 1; Chapters 1-4                                   |  |  |  | [Review Activities](./notes/week0.html)  |  |  |  |               |
 | 1       |  |  | 18 Jan - 22 Jan   |  |  |  | QM 1; Chapters 1-4                                   |  |  |  | [Homework 1](./assignments/homework1.html)        |  |  |  |               |
 | 2       |  |  | 25 Jan - 29 Jan   |  |  |  | Particle in a Box; 5.1-5.4                           |  |  |  | [Homework 2](./assignments/homework2.html)       |  |  |  |               |
-| 3       |  |  | 01 Feb - 05 Jan   |  |  |  | Finite Square Well; 5.5-5.7                          |  |  |  | Homework 3         |  |  |  | Quiz 1        |
+| 3       |  |  | 01 Feb - 05 Jan   |  |  |  | Finite Square Well; 5.5-5.7                          |  |  |  | [Homework 3](./assignments/homework3.html)         |  |  |  | Quiz 1        |
 | 4       |  |  | 08 Feb - 12 Feb   |  |  |  | Free Particles & Wave Packets; 6.1-6.2               |  |  |  | Homework 4         |  |  |  |               |
 | 5       |  |  | 15 Feb - 19 Feb   |  |  |  | Uncertainty Principle & Barriers; 6.3-6.5            |  |  |  | Homework 5         |  |  |  |               |
 | 6       |  |  | 22 Feb - 26 Feb   |  |  |  | 3D QM & Angular Momentum; 7.1-7.3                    |  |  |  | Homework 6         |  |  |  | Quiz 2        |
