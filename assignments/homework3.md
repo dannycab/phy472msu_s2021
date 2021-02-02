@@ -53,7 +53,19 @@ Here, $p_m(x)$ and $p_n(x)$ represent polynomials from the same family. The rang
 
 ## 4. Double $\delta$-function potential
 
-Now that we have built up the process for finding solutions to symmetric square wells, let's investigate a particle confined to a double delta function potential. $V(x) = -C\left(\delta(x-L)+\delta(x+L)\right)$ where $C>0$ and is real.
+Now that we have built up the process for finding solutions to symmetric square wells, let's investigate a particle confined to a double delta function potential:
+
+$$V(x) = -C\left(\delta(x-L)+\delta(x+L)\right)$$
+
+where $C>0$ and is real. Through this problem, we will continue to work through the process for solving these even if the details change a little bit.
+
+1. Note that $V=0$ everywhere except at the location of the delta functions. Based on this write down the eigenvalue equation for everywhere but the location of the delta functions. Define $q\equiv\sqrt{-kmE/\hbar^2}$ and write down the general solution for the energy eigenstates $\phi_E(x)$ for $x<-L$, $-L<x<L$ and $x>L$.
+2. The boundary conditions we have used in the past are the continuity of $\phi_E(x)$ and its derivative. These still work but we have to be careful with the second condition because of the delta functions. First, determine the two expressions you get for matching the continuity of $\phi_E(x)$.
+3. For the continuity of the first derivative, we have to be a bit more careful. If the potential is infinite, there's a discontinuity in the first derivative of $\phi_E(x)$. Mathematically, we can write this as (for the delta function at $L$):
+$$\dfrac{d\phi_E(x)}{dx}\biggm\lvert_{L+\epsilon} - \dfrac{d\phi_E(x)}{dx}\biggm\lvert_{L-\epsilon} = \dfrac{2m}{\hbar^2}\lim_{\epsilon \rightarrow 0} \int_{L-\epsilon}^{L+\epsilon}V(x)\phi_E(x)$$
+Use this to find the expressions for the relating the general solutions to the boundary conditions at $x=L$ and $x=-L$.
+4. Solve the equations from part 3 and 4 to determine the quantization conditions for the energies. You will find an expression that cannot be solved analytically, and you should find two of them for "even" and "odd" solutions.
+5. Find the normalized even and odd eigenstates and sketch them. What do these sketches tell you about $\braket{x}$ for even and odd solutions?
 
 ## 5. Finding the Eigenenergies of the Finite Square Well Numerically
 
