@@ -32,7 +32,7 @@ Let's go back to the form of the wavefunction determined in McIntyre (with well 
 
 ## 3. Time Evolution of a Superposition State
 
-As we determined earlier, energy eigenstates are particularly useful when we want to see how the system evolves in time. As the infinite square well Hamiltonian is time independent, we expect that the energy eigenstates are stationary states. Let's bring this thinking to the position representation of the energy eigenstates.
+As we determined earlier for a well from $[0,L]$, energy eigenstates are particularly useful when we want to see how the system evolves in time. As the infinite square well Hamiltonian is time independent, we expect that the energy eigenstates are stationary states. Let's bring this thinking to the position representation of the energy eigenstates.
 
 Consider the superposition state $\ket{\psi(t=0)} = A \left(\ket{\phi_1} - \dfrac{1}{\sqrt{2}}\ket{\phi_2}\right)$ where $\ket{\phi_n}$ are energy eigenstates of the infinite square well.
 
