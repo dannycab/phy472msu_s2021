@@ -53,7 +53,7 @@ Here, $p_m(x)$ and $p_n(x)$ represent polynomials from the same family. The rang
 
 ## 4. Double $\delta$-function potential
 
-* Problem 5.26 from McIntyre, but write out steps
+Now that we have built up the process for finding solutions to symmetric square wells, let's investigate a particle confined to a double delta function potential. $V(x) = -C\left(\delta(x-L)+\delta(x+L)\right)$ where $C>0$ and is real.
 
 ## 5. Finding the Eigenenergies of the Finite Square Well Numerically
 
