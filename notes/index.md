@@ -69,6 +69,9 @@ use_math: true
   * Class recordings [(Part 1)](https://www.youtube.com/watch?v=xq11AXzSL7g) [(Part 2)](https://www.youtube.com/watch?v=eT7fUPky-9s)
   * [Handwritten Notes from Discussion](./in-class/Day_6.pdf)
 * [Day 7 - Wed. Feb 3rd](./in-class/day7.html)
+  * [Demo Finite Square Well (Jupyter Notebook)](./in-class/Finite_Square_Well_Demo.ipynb)
+  * Class recording [(YouTube)](https://www.youtube.com/watch?v=6YVkvnjak5s)
+  * [Handwritten Notes from Discussion](./in-class/Day_7.pdf)
 * Day 8 - Fri. Feb 5th
 
 ### Homework
