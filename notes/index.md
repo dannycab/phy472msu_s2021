@@ -17,7 +17,9 @@ use_math: true
 
 #### Videos
 
-* Coming Soon
+* [**The Free Particle (YouTube)**](https://www.youtube.com/watch?v=UcicSN1UC28)
+* [**Momentum Eigenstates of the Free Particle (YouTube)**](https://www.youtube.com/watch?v=RioDz8ZU2Xk)
+* [**Properties of Momentum Eigenstates (YouTube)**](https://www.youtube.com/watch?v=UFJdScYzN1A)
 
 #### Notes
 
@@ -66,7 +68,7 @@ use_math: true
 * [Day 6 - Mon. Feb 1st](./in-class/day6.html)
   * Class recordings [(Part 1)](https://www.youtube.com/watch?v=xq11AXzSL7g) [(Part 2)](https://www.youtube.com/watch?v=eT7fUPky-9s)
   * [Handwritten Notes from Discussion](./in-class/Day_6.pdf)
-* Day 7 - Wed. Feb 3rd
+* [Day 7 - Wed. Feb 3rd](./in-class/day7.html)
 * Day 8 - Fri. Feb 5th
 
 ### Homework
