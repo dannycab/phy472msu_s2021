@@ -45,9 +45,9 @@ $$\int_a^b w(x) p_m(x) p_n(x) dx = \delta_{mn} c_n$$
 
 Here, $p_m(x)$ and $p_n(x)$ represent polynomials from the same family. The range of "orthogonality" is $[a,b]$ and the weighting of the integral is $w(x)$. Finally the coefficient $c_n$ is the result for non-orthogonal functions; if it is equal to 1 the functions are not just orthogonal, but orthonormal.
 
-1. For our $\sin$ and $\cos$ solutions, state $a$, $b$, $w(x)$, and $c_n$
+1. For $\sin(x)$ and $\cos(x)$, state $a$, $b$, $w(x)$, and $c_n$
 2. There are a number of polynomials that arise in physics including in quantum mechanics. Look up the following families of orthogonal polynomials: Legendre, Hermite, and Chebyshev. Write down the first three polynomials for each family. Identify $a$, $b$, $w(x)$, and $c_n$ for each. That is, what are the orthogonality conditions for each family?
-3. Show for the second two polynomials ($n=1$ and $n=2$) for each (family Legendre, Hermite, and Chebyshev) that they are orthogonal. We will encounter Legendre and Hermite polynomials later.
+3. Show for the second two polynomials ($n=1$ and $n=2$) for each (family Legendre, Hermite, and Chebyshev) that they are orthogonal. We will encounter Legendre and Hermite polynomials later. It suffices to show two integrals per family and feel free to use [WolframAlpha](http://wolframalpha.com) to do the integrals if you like.
 4. Finally, look up the spherical harmonics, $Y_l^m(\theta, \phi)$. As we will learn for the Hydrogen atom, the orthogonality condition for them involves integrals over $\theta$ and $\phi$. Write down the orthogonality condition for them and illustrate the orthogonality for a given choice of $l$ and $m$ (you can choose here).
 
 
@@ -59,7 +59,7 @@ $$V(x) = -C\left(\delta(x-L)+\delta(x+L)\right)$$
 
 where $C>0$ and is real. Through this problem, we will continue to work through the process for solving these even if the details change a little bit.
 
-1. Note that $V=0$ everywhere except at the location of the delta functions. Based on this write down the eigenvalue equation for everywhere but the location of the delta functions. Define $q\equiv\sqrt{-kmE/\hbar^2}$ and write down the general solution for the energy eigenstates $\phi_E(x)$ for $x<-L$, $-L<x<L$ and $x>L$.
+1. Note that $V=0$ everywhere except at the location of the delta functions. Based on this write down the eigenvalue equation for everywhere but the location of the delta functions. Define $q\equiv\sqrt{-2mE/\hbar^2}$ and write down the general solution for the energy eigenstates $\phi_E(x)$ for $x<-L$, $-L<x<L$ and $x>L$.
 2. The boundary conditions we have used in the past are the continuity of $\phi_E(x)$ and its derivative. These still work but we have to be careful with the second condition because of the delta functions. First, determine the two expressions you get for matching the continuity of $\phi_E(x)$.
 3. For the continuity of the first derivative, we have to be a bit more careful. If the potential is infinite, there's a discontinuity in the first derivative of $\phi_E(x)$. Mathematically, we can write this as (for the delta function at $L$):
 $$\dfrac{d\phi_E(x)}{dx}\biggm\lvert_{L+\epsilon} - \dfrac{d\phi_E(x)}{dx}\biggm\lvert_{L-\epsilon} = \dfrac{2m}{\hbar^2}\lim_{\epsilon \rightarrow 0} \int_{L-\epsilon}^{L+\epsilon}V(x)\phi_E(x)$$
