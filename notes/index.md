@@ -72,7 +72,7 @@ use_math: true
   * [Demo Finite Square Well (Jupyter Notebook)](./in-class/Finite_Square_Well_Demo.ipynb)
   * Class recording [(YouTube)](https://www.youtube.com/watch?v=6YVkvnjak5s)
   * [Handwritten Notes from Discussion](./in-class/Day_7.pdf)
-* Day 8 - Fri. Feb 5th
+* [Day 8 - Fri. Feb 5th](./in-class/day8.html)
 
 ### Homework
 
