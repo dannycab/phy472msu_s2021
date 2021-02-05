@@ -14,7 +14,7 @@ You might find it easier to solve this problem when you have completed problem 5
 
 1. For a finite square well, find the allowed energies for the following situations:
   * An electron bound in a well with a 6eV depth and a width of 1.5 nm
-  * An electron bound in a well with a 13.6eV depth and a width of the Bohr radius
+  * An electron bound in a well with a 13.6eV depth and a width that is twice the Bohr radius
 2. Compare your results to those predicted by the [Bohr model of the Hydrogen atom](https://en.wikipedia.org/wiki/Bohr_model)
 3. Discuss discrepancies in your calculated results and those predicted by the Bohr model. Can you tune the finite square well parameters to give energies closer to the Bohr model?
 
