@@ -30,7 +30,7 @@ use_math: true
 
 ### In-Class Activities
 
-* Day 9 - Mon. Feb 8th
+* [Day 9 - Mon. Feb 8th](./in-class/day9.html)
 * Day 10 - Wed. Feb 10th
 * Day 11 - Fri. Feb 12th
 
