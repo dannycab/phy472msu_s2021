@@ -33,6 +33,7 @@ use_math: true
 * [Day 9 - Mon. Feb 8th](./in-class/day9.html)
   * Class recording [(YouTube)](https://www.youtube.com/watch?v=3-XcEDGYEzU)
   * [Handwritten Notes from Discussion](./in-class/Day_9.pdf)
+  * [Wavepacket Demo (Jupyter)](./in-class/Wavepacket_Demo.ipynb)
 * Day 10 - Wed. Feb 10th
 * Day 11 - Fri. Feb 12th
 
