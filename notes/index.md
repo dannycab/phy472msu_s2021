@@ -71,6 +71,8 @@ use_math: true
   * [Handwritten Notes from Discussion](./in-class/Day_9.pdf)
   * [Wavepacket Demo (Jupyter)](./in-class/Wavepacket_Demo.ipynb)
 * [Day 10 - Wed. Feb 10th](./in-class/day10.html)
+  * Class recording [(YouTube)](https://www.youtube.com/watch?v=LyFc6CXHuHI)
+  * [Handwritten Notes from Discussion](./in-class/Day_10.pdf)
 * Day 11 - Fri. Feb 12th
 
 ### Homework
