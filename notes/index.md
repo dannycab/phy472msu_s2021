@@ -35,13 +35,11 @@ use_math: true
 
 ### Homework
 
-Coming soon...
-
-<!-- * [Homework 4 (Due Friday Feb 19th)](../assignments/homework4.html)
+* [Homework 4 (Due Friday Feb 19th)](../assignments/homework4.html)
 * Turn in the paper-based homework via [Gradscope](https://www.gradescope.com/).
-* Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/g9rmFf1MHcaPwFWGvmcT).
+* Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/NGQ7VzpxvTaBfbaRuxIT).
 
---- --->
+---
 
 ## Week 4 - The Free Particle
 
