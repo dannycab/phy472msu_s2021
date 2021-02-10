@@ -5,6 +5,42 @@ permalink: notes/index.html
 use_math: true
 ---
 
+<!-- ## Week 5 - Scattering and Tunneling
+
+### Pre-class survey (Due Sunday Feb 7th)
+
+* Read through the posted notes and watch the posted videos (below).
+* Complete the [pre-class survey for Week 5](https://msu.co1.qualtrics.com/jfe/form/SV_6gSvFNnmkbUANOl) by Sunday Feb 14th at 11:59pm.
+* Make sure to copy your questions about this week's notes in the [D2L Week 5 pre-class assignment](https://d2l.msu.edu) by 11:59pm on Sunday Feb 14th to receive credit.
+
+### Course Notes & Videos
+
+#### Videos
+
+* [**Uncertainty Principle (YouTube)**](https://www.youtube.com/watch?v=joGQGTD3MoM)
+* [**Scattering (YouTube)**](https://www.youtube.com/watch?v=CkcHycSI0hA)
+* [**Tunneling (YouTube)**](https://www.youtube.com/watch?v=HZ4-H-_hS3c)
+
+#### Notes
+
+* [**12 - Uncertainty Principle (PDF)**](./handwritten/12 - Uncertainty Principle.pdf)
+* [**13 - Scattering (PDF)**](./handwritten/13 - Scattering.pdf)
+* [**14 - Tunneling (PDF)**](./handwritten/14 - Tunneling.pdf)
+
+### In-Class Activities
+
+* Day 12 - Mon. Feb 15th
+* Day 13 - Wed. Feb 17th
+* Day 14 - Fri. Feb 19th
+
+### Homework
+
+* [Homework 4 (Due Friday Feb 19th)](../assignments/homework4.html)
+* Turn in the paper-based homework via [Gradscope](https://www.gradescope.com/).
+* Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/g9rmFf1MHcaPwFWGvmcT).
+
+--- -->
+
 ## Week 4 - The Free Particle
 
 ### Pre-class survey (Due Sunday Feb 7th)
@@ -34,7 +70,7 @@ use_math: true
   * Class recording [(YouTube)](https://www.youtube.com/watch?v=3-XcEDGYEzU)
   * [Handwritten Notes from Discussion](./in-class/Day_9.pdf)
   * [Wavepacket Demo (Jupyter)](./in-class/Wavepacket_Demo.ipynb)
-* Day 10 - Wed. Feb 10th
+* [Day 10 - Wed. Feb 10th](./in-class/day10.html)
 * Day 11 - Fri. Feb 12th
 
 ### Homework
