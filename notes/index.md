@@ -5,7 +5,7 @@ permalink: notes/index.html
 use_math: true
 ---
 
-<!-- ## Week 5 - Scattering and Tunneling
+## Week 5 - Scattering and Tunneling
 
 ### Pre-class survey (Due Sunday Feb 7th)
 
@@ -35,11 +35,13 @@ use_math: true
 
 ### Homework
 
-* [Homework 4 (Due Friday Feb 19th)](../assignments/homework4.html)
+Coming soon...
+
+<!-- * [Homework 4 (Due Friday Feb 19th)](../assignments/homework4.html)
 * Turn in the paper-based homework via [Gradscope](https://www.gradescope.com/).
 * Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/g9rmFf1MHcaPwFWGvmcT).
 
---- -->
+--- --->
 
 ## Week 4 - The Free Particle
 
