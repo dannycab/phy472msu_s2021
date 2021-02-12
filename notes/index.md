@@ -74,6 +74,8 @@ use_math: true
   * Class recording [(YouTube)](https://www.youtube.com/watch?v=LyFc6CXHuHI)
   * [Handwritten Notes from Discussion](./in-class/Day_10.pdf)
 * [Day 11 - Fri. Feb 12th](./in-class/day11.html)
+  * Class recording [(YouTube)](https://www.youtube.com/watch?v=79gEYp7ypeg)
+  * [Handwritten Notes from Discussion](./in-class/Day_11.pdf)
 
 ### Homework
 
