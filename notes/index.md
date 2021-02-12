@@ -73,7 +73,7 @@ use_math: true
 * [Day 10 - Wed. Feb 10th](./in-class/day10.html)
   * Class recording [(YouTube)](https://www.youtube.com/watch?v=LyFc6CXHuHI)
   * [Handwritten Notes from Discussion](./in-class/Day_10.pdf)
-* Day 11 - Fri. Feb 12th
+* [Day 11 - Fri. Feb 12th](./in-class/day11.html)
 
 ### Homework
 
