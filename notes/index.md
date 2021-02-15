@@ -29,7 +29,9 @@ use_math: true
 
 ### In-Class Activities
 
-* Day 12 - Mon. Feb 15th
+* Day 12 - Mon. Feb 15th (no in-class)
+  * Class recording [(YouTube)](https://www.youtube.com/watch?v=dpPsIO23xr0)
+  * [Handwritten Notes from Discussion](./in-class/Day_12.pdf)
 * Day 13 - Wed. Feb 17th
 * Day 14 - Fri. Feb 19th
 
