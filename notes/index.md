@@ -7,7 +7,7 @@ use_math: true
 
 ## Week 5 - Scattering and Tunneling
 
-### Pre-class survey (Due Sunday Feb 7th)
+### Pre-class survey (Due Sunday Feb 14th)
 
 * Read through the posted notes and watch the posted videos (below).
 * Complete the [pre-class survey for Week 5](https://msu.co1.qualtrics.com/jfe/form/SV_6gSvFNnmkbUANOl) by Sunday Feb 14th at 11:59pm.
