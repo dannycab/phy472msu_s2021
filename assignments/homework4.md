@@ -37,7 +37,7 @@ Consider a wave function for a beam of particles given by:
 
 $$\psi(x) = Ae^{ip_0x/\hbar}e^{-x^2/4\alpha^2}$$
 
-1. Normalize this weave function (over all space). What is $A$?
+1. Normalize this wave function (over all space). What is $A$?
 2. Using the spatial representation, compute the expectation value $\braket{p}$.
 3. Compute the momentum space wave function by performing the inverse Fourier transform of $\psi(x)$, $\phi(p) = \dfrac{1}{\sqrt{2 \pi \hbar}}\int_{-\infty}^{\infty} \psi(x)e^{-ipx}dx$
 4. Using this momentum representation, compute the expectation value $\braket{p}$. *Recall that the operators change in this representation!*
