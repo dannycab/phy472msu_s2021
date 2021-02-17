@@ -16,7 +16,7 @@ Commutators are really important to quantum mechanics because they provide an in
 1. For the free particle, show that the momentum and Hamiltonian operators commute. You can do this either using the position representation of the operator, or the abstract representation.
 2. Given that the momentum and Hamiltonian commute for the free particle, what does this tell you about the momentum and energy of the free particle?
 3. Determine the commutation relationship between the position and momentum operators. Do this using both the position and momentum representations (Eq. 6.76 in McIntyre).
-4. Given the result, what does this tell you about the momentum and energy of the free particle? Compute the uncertainty relationship.
+4. Given the result, what does this tell you about the momentum and position of the free particle? Compute the uncertainty relationship.
 
 ## 2. Eigenstates of the free particle
 
