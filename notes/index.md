@@ -5,6 +5,40 @@ permalink: notes/index.html
 use_math: true
 ---
 
+## Week 6 - Central Potentials
+
+### Pre-class survey (Due Sunday Feb 21st)
+
+* Read through the posted notes and watch the posted videos (below).
+* Complete the [pre-class survey for Week 6](https://msu.co1.qualtrics.com/jfe/form/SV_6gSvFNnmkbUANOl) by Sunday Feb 21st at 11:59pm.
+* Make sure to copy your questions about this week's notes in the [D2L Week 6 pre-class assignment](https://d2l.msu.edu) by 11:59pm on Sunday Feb 21st to receive credit.
+
+### Course Notes & Videos
+
+#### Videos
+
+* [**Central Potentials (YouTube)**](https://www.youtube.com/watch?v=XECGC-XO8OI)
+* [**Angular Momentum (YouTube)**](https://www.youtube.com/watch?v=KYz5KGqMzG8)
+
+#### Notes
+
+* [**15 - Central Potentials (PDF)**](./handwritten/15 - Central Potentials.pdf)
+* [**16 - Angular Momentum (PDF)**](./handwritten/16 - Angular Momentum.pdf)
+
+### In-Class Activities
+
+* Day 15 - Mon. Feb 22nd
+* Day 16 - Wed. Feb 24th
+* Day 17 - Fri. Feb 26th
+
+### Homework
+
+* [Homework 5 (Due Friday Feb 26th)](../assignments/homework5.html)
+* Turn in the paper-based homework via [Gradscope](https://www.gradescope.com/).
+* No computational problem this week.
+
+---
+
 ## Week 5 - Scattering and Tunneling
 
 ### Pre-class survey (Due Sunday Feb 14th)
