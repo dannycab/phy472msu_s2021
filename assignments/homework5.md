@@ -43,8 +43,8 @@ $$R = \dfrac{\vert B \vert^2}{\vert A \vert^2} = \dfrac{1}{1+\dfrac{4k^2q^2}{(k^
 
 where $k = \sqrt{\dfrac{2mE}{\hbar^2}}$ and $q = \sqrt{\dfrac{2m(V_0-E)}{\hbar^2}}$.
 
-1. For the finite well, consider very low energy particles (i.e., $E \approx 0$), what do $T$ and $R$ predict? Give the approximate function form.
-2. For the finite barrier, consider very low energy particles (i.e., $E \ll V_0$), what do $T$ and $R$ predict? Give the approximate function form.
+1. For the finite well, consider very low energy particles (i.e., $E \approx 0$), what do $T$ and $R$ predict?
+2. For the finite barrier, consider very low energy particles (i.e., $E \ll V_0$), what do $T$ and $R$ predict? 
 3. Consider the finite well and set $2k_2a = n\pi$. What do $T$ and $R$ predict? How do we make sense of these results physically?
 4. For the finite barrier, what do $T$ and $R$ predict for $E$ approaching $V_0$ (i.e., $E \approx V_0$)?
 5. We can predict what happens for the finite barrier if $E>V_0$ by setting $V_0$ to $-V_0$ for the finite well transmission and reflection results. Do this and predict what happens to $T$ and $R$ for high energy particles $E \gg V_0$. Why do these results make sense?
