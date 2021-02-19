@@ -34,7 +34,7 @@ use_math: true
 ### Homework
 
 * [Homework 5 (Due Friday Feb 26th)](../assignments/homework5.html)
-* Turn in the paper-based homework via [Gradscope](https://www.gradescope.com/).
+* Turn in the paper-based homework via [Gradescope](https://www.gradescope.com/).
 * No computational problem this week.
 
 ---
@@ -74,7 +74,7 @@ use_math: true
 ### Homework
 
 * [Homework 4 (Due Friday Feb 19th)](../assignments/homework4.html)
-* Turn in the paper-based homework via [Gradscope](https://www.gradescope.com/).
+* Turn in the paper-based homework via [Gradescope](https://www.gradescope.com/).
 * Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/NGQ7VzpxvTaBfbaRuxIT).
 
 ---
@@ -118,7 +118,7 @@ use_math: true
 ### Homework
 
 * [Homework 3 (Due Friday Feb 12th)](../assignments/homework3.html)
-* Turn in the paper-based homework via [Gradscope](https://www.gradescope.com/).
+* Turn in the paper-based homework via [Gradescope](https://www.gradescope.com/).
 * Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/g9rmFf1MHcaPwFWGvmcT).
 
 ----
@@ -159,7 +159,7 @@ use_math: true
 ### Homework
 
 * [Homework 2 (Due Friday Feb 5th)](../assignments/homework2.html)
-* Turn in the paper-based homework via [Gradscope](https://www.gradescope.com/).
+* Turn in the paper-based homework via [Gradescope](https://www.gradescope.com/).
 * Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/vscBnPjYqOEUk1VyPOO0).
 
 
@@ -200,7 +200,7 @@ use_math: true
 ### Homework
 
 * [Homework 1 (Due Friday Jan 29th)](../assignments/homework1.html)
-* Turn in the paper-based homework via [Gradscope](https://www.gradescope.com/).
+* Turn in the paper-based homework via [Gradescope](https://www.gradescope.com/).
 * Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/u3J2phx9zlkCZXfpzJaR).
 
 
@@ -233,7 +233,7 @@ use_math: true
 ### Homework
 
 * [Homework 1 (Due Friday Jan 29th)](../assignments/homework1.html)
-* Turn in the paper-based homework via [Gradscope](https://www.gradescope.com/).
+* Turn in the paper-based homework via [Gradescope](https://www.gradescope.com/).
 * Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/u3J2phx9zlkCZXfpzJaR).
 
 ----

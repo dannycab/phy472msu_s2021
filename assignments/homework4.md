@@ -39,7 +39,7 @@ $$\psi(x) = Ae^{ip_0x/\hbar}e^{-x^2/4\alpha^2}$$
 
 1. Normalize this wave function (over all space). What is $A$?
 2. Using the spatial representation, compute the expectation value $\braket{p}$.
-3. Compute the momentum space wave function by performing the inverse Fourier transform of $\psi(x)$, $\phi(p) = \dfrac{1}{\sqrt{2 \pi \hbar}}\int_{-\infty}^{\infty} \psi(x)e^{-ipx}dx$
+3. Compute the momentum space wave function by performing the inverse Fourier transform of $\psi(x)$, $\phi(p) = \dfrac{1}{\sqrt{2 \pi \hbar}}\int_{-\infty}^{\infty} \psi(x)e^{-ipx/\hbar}dx$
 4. Using this momentum representation, compute the expectation value $\braket{p}$. *Recall that the operators change in this representation!*
 5. Of the operations done in part 2 and 4, which was easier? Why? Is there any lesson you can draw from changing representations and performing calculations?
 
