@@ -27,7 +27,9 @@ use_math: true
 
 ### In-Class Activities
 
-* Day 15 - Mon. Feb 22nd
+* Day 15 - Mon. Feb 22nd (no in-class)
+  * Class recording [(YouTube)](https://www.youtube.com/watch?v=S2yDooAz9UM)
+  * [Handwritten Notes from Discussion](./in-class/Day_15.pdf)
 * Day 16 - Wed. Feb 24th
 * Day 17 - Fri. Feb 26th
 
