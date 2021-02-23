@@ -44,16 +44,16 @@ $$R = \dfrac{\vert B \vert^2}{\vert A \vert^2} = \dfrac{1}{1+\dfrac{4k^2q^2}{(k^
 where $k = \sqrt{\dfrac{2mE}{\hbar^2}}$ and $q = \sqrt{\dfrac{2m(V_0-E)}{\hbar^2}}$.
 
 1. For the finite well, consider very low energy particles (i.e., $E \approx 0$), what do $T$ and $R$ predict?
-2. For the finite barrier, consider very low energy particles (i.e., $E \ll V_0$), what do $T$ and $R$ predict? 
+2. For the finite barrier, consider very low energy particles (i.e., $E \ll V_0$), what do $T$ and $R$ predict?
 3. Consider the finite well and set $2k_2a = n\pi$. What do $T$ and $R$ predict? How do we make sense of these results physically?
 4. For the finite barrier, what do $T$ and $R$ predict for $E$ approaching $V_0$ (i.e., $E \approx V_0$)?
 5. We can predict what happens for the finite barrier if $E>V_0$ by setting $V_0$ to $-V_0$ for the finite well transmission and reflection results. Do this and predict what happens to $T$ and $R$ for high energy particles $E \gg V_0$. Why do these results make sense?
 
 ## 3. "Resonances"
 
-In part 3 of the previous question, you found what we refer to as "resonances" for the finite square well, that is, when the transmission probability spikes. These resonances are important in various physics experiments because they are used to drive investigations into atoms, nuclei, and elementary particles. Often, these resonances characterize a particular system of interest. In this problem, we will characterize a square well based on measurements we might make.
+In part 3 of the previous question, you found what we refer to as "resonances" for the finite square well, that is, when the transmission probability spikes. These resonances are important in various physics experiments because they are used to drive investigations into atoms, nuclei, and elementary particles. Often, these resonances characterize a particular system of interest. In this problem, we will characterize a square well based on measurements we might make (assume the particles are electrons).
 
-1. For the finite square well, resonances occur when $2k_2a = n\pi$. Find the minimum width of the square well that has a depth of 12eV and demonstrates a resonance at 20eV. That is, when the kinetic energy of the particles is 20eV we find a transmission coefficient of 1. **Hint: the minimum width occurs when $n=1$.
+1. For the finite square well, resonances occur when $2k_2a = n\pi$. Find the minimum width of the square well that has a depth of 12eV and demonstrates a resonance at 20eV. That is, when the kinetic energy of the particles is 20eV we find a transmission coefficient of 1. **Hint: the minimum width occurs when $n=1$.**
 2. There are potentially other kinetic energies where we might find resonances. Find the next 3 possible resonances (in eV) using the width you found in part 1.
 3. Now that we have a sense of how this resonance stuff works, find the kinetic energies of electrons that are transmitted with unit probability if they are incident on a square well of depth 5eV and width 1nm.
 
