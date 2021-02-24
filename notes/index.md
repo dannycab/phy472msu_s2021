@@ -17,7 +17,9 @@ use_math: true
 
 #### Videos
 
-* Coming soon
+* [**Separation of Variables (YouTube)**](https://www.youtube.com/watch?v=7nmsFKYAOvs)
+* [**Particle on a Ring (YouTube)**](https://www.youtube.com/watch?v=lAJUbakLSss)
+
 
 #### Notes
 
