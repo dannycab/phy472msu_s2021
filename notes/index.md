@@ -5,6 +5,39 @@ permalink: notes/index.html
 use_math: true
 ---
 
+## Week 7 - Separation of Variables
+
+### Pre-class survey (Due Sunday Feb 28th)
+
+* Read through the posted notes and watch the posted videos (below).
+* Complete the [pre-class survey for Week 7](https://msu.co1.qualtrics.com/jfe/form/SV_6gSvFNnmkbUANOl) by Sunday Feb 28th at 11:59pm.
+* Make sure to copy your questions about this week's notes in the [D2L Week 7 pre-class assignment](https://d2l.msu.edu) by 11:59pm on Sunday Feb 28th to receive credit.
+
+### Course Notes & Videos
+
+#### Videos
+
+* Coming soon
+
+#### Notes
+
+* [**17 - Separation of Variables (PDF)**](./handwritten/17 - Separation of Variables.pdf)
+* [**18 - Particle on a Ring (PDF)**](./handwritten/18 - Particle on a Ring.pdf)
+
+### In-Class Activities
+
+* Day 18 - Mon. Mar 1st
+* No Class - Wed. Mar 3rd
+* Day 19 - Fri. Mar 5th
+
+### Homework
+
+* [Homework 6 (Due Friday Mar 5th)](../assignments/homework6.html)
+* Turn in the paper-based homework via [Gradescope](https://www.gradescope.com/).
+* No computational problem this week.
+
+---
+
 ## Week 6 - Central Potentials
 
 ### Pre-class survey (Due Sunday Feb 21st)
