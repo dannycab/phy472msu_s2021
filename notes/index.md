@@ -64,6 +64,8 @@ use_math: true
   * Class recording [(YouTube)](https://www.youtube.com/watch?v=S2yDooAz9UM)
   * [Handwritten Notes from Discussion](./in-class/Day_15.pdf)
 * [Day 16 - Wed. Feb 24th](./in-class/day16.html)
+  * Class recording [(YouTube)](https://www.youtube.com/watch?v=3HzMB1779_c)
+  * [Handwritten Notes from Discussion](./in-class/Day_16.pdf)
 * Day 17 - Fri. Feb 26th
 
 ### Homework
