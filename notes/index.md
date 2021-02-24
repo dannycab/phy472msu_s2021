@@ -30,7 +30,7 @@ use_math: true
 * Day 15 - Mon. Feb 22nd (no in-class)
   * Class recording [(YouTube)](https://www.youtube.com/watch?v=S2yDooAz9UM)
   * [Handwritten Notes from Discussion](./in-class/Day_15.pdf)
-* Day 16 - Wed. Feb 24th
+* [Day 16 - Wed. Feb 24th](./in-class/day16.html)
 * Day 17 - Fri. Feb 26th
 
 ### Homework

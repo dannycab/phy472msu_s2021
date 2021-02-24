@@ -20,3 +20,5 @@ Consider a particle that has only one degree of freedom ($\phi$). That is $r$ an
   * **Discussion:** What happens to $V(r)$ in this case? How can you form a differential equation that can be solved?
 2. **Question:** Given this form let's assume $\psi(r,\theta,\phi) = \psi(\phi)$. What is the general solution to this differential equation.
   * **Discussion:** Are you able to characterize any coefficients in the general solution? Positive? Negative? Integers? How can you tell (or how do you know)?
+3. **Question:** Normalize the $\psi(\phi)$. What are the bounds?
+  * **Discussion:** It's common to normalize each part of a separable solution. Why might this be a good practice?
