@@ -6,7 +6,7 @@ use_math: true
 
 [[PDF]](./homework5.pdf)
 
-Homework 5 focuses on the relationship between the spatial wave function and the momentum space wave function and investigates the different aspects of tunneling and reflection in well and barrier situations. There's a computational problem that aims to make clear the time evolution of wave packets.
+Homework 5 focuses on the relationship between the spatial wave function and the momentum space wave function and investigates the different aspects of tunneling and reflection in well and barrier situations. T
 
 ## 1. Momentum probability distribution
 
