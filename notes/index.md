@@ -28,7 +28,9 @@ use_math: true
 
 ### In-Class Activities
 
-* Day 18 - Mon. Mar 1st
+* Day 18 - Mon. Mar 1st (no in-class)
+  * Class Recording [(YouTube)](https://www.youtube.com/watch?v=cbIlkzB2ZKQ)
+  * [Handwritten Notes from Discussion](./in-class/Day_18.pdf)
 * No Class - Wed. Mar 3rd
 * Day 19 - Fri. Mar 5th
 
