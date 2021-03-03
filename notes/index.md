@@ -4,6 +4,38 @@ title: Quantum Mechanics II Spring 2021 Notes and Activities
 permalink: notes/index.html
 use_math: true
 ---
+## Week 8 - Separation of Variables II
+
+### Pre-class survey (Due Sunday Mar 7th)
+
+* Read through the posted notes and watch the posted videos (below).
+* Complete the [pre-class survey for Week 8](https://msu.co1.qualtrics.com/jfe/form/SV_6gSvFNnmkbUANOl) by Sunday Mar 7th at 11:59pm.
+* Make sure to copy your questions about this week's notes in the [D2L Week 8 pre-class assignment](https://d2l.msu.edu) by 11:59pm on Sunday Mar 7th to receive credit.
+
+### Course Notes & Videos
+
+#### Videos
+
+* Coming soon
+
+
+#### Notes
+
+* [**19 - Particle on a Sphere (PDF)**](./handwritten/19 - Particle on a Sphere.pdf)
+* [**20 - Spherical Harmonics (PDF)**](./handwritten/20 - Spherical Harmonics.pdf)
+
+### In-Class Activities
+
+* Day 20 - Mon. Mar 8th (no in-class)
+* Day 21 - Wed. Mar 10th
+* Day 22 - Fri. Mar 12th
+
+### Homework
+
+* [Homework 7 (Due Friday Mar 12th)](../assignments/homework7.html)
+* Turn in the paper-based homework via [Gradescope](https://www.gradescope.com/).
+
+---
 
 ## Week 7 - Separation of Variables
 
