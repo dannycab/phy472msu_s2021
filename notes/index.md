@@ -34,6 +34,7 @@ use_math: true
 
 * [Homework 7 (Due Friday Mar 12th)](../assignments/homework7.html)
 * Turn in the paper-based homework via [Gradescope](https://www.gradescope.com/).
+* Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/snFW1zlAvuID9XedUo78).
 
 ---
 
