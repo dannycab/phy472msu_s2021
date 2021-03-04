@@ -16,7 +16,10 @@ use_math: true
 
 #### Videos
 
-* Coming soon
+* [**Particle on a Sphere (YouTube)**](https://www.youtube.com/watch?v=GHdrWw9yRuY)
+* [**Building a Series Solution (YouTube)**](https://www.youtube.com/watch?v=7gwDAkOirrQ)
+* [**Legendre Polynomials (YouTube)**](https://www.youtube.com/watch?v=jsL9WYwsY64)
+* [**Spherical Harmonics (YouTube)**](https://www.youtube.com/watch?v=rPeyaru6ans)
 
 
 #### Notes
@@ -26,7 +29,7 @@ use_math: true
 
 ### In-Class Activities
 
-* Day 20 - Mon. Mar 8th (no in-class)
+* Day 20 - Mon. Mar 8th
 * Day 21 - Wed. Mar 10th
 * Day 22 - Fri. Mar 12th
 
