@@ -10,7 +10,7 @@ use_math: true
 
 One of the useful things about the position representation of operators is that we can rewrite them in ways that fit the symmetry of our problem. For a spherically symmetric potential, it makes sense to use spherical coordinates.
 
-$$x = r \sin \theta \cos \phi$$
+$$x = r \cos \theta \sin \phi$$
 
 $$y = r \sin \theta \sin \phi$$
 
