@@ -20,6 +20,6 @@ Let's try to look at this based on operators. Consider $L_z = xp_y - yp_x$ in po
 
 ### Relationships between Cartesian and Spherical Coordinates
 
-$$x = r_0 \cos \theta \sin \phi \qquad y = r_0 \sin \theta \sin \phi \qquad z = r_0 \cos\phi$$
+$$x = r_0 \sin \theta \cos \phi \qquad y = r_0 \sin \theta \sin \phi \qquad z = r_0 \cos\theta$$
 
 $$r_0 = \sqrt{x^2+y^2+z^2} \qquad \theta = \cos^{-1}\left(\dfrac{z}{\sqrt{x^2+y^2+z^2}}\right) \qquad \phi = \tan^{-1}\left(\dfrac{y}{x}\right)$$
