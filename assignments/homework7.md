@@ -24,9 +24,9 @@ $$z = r \cos \phi$$
 
 ## 2. Considering degeneracy
 
-One of the new things we have discovered with the particle on a ring is that states can be degnerate in terms of their energy, total angular momentum, and the angular momentum projection. This means we have to be more careful when we calculate probabilities and expectation values.
+One of the new things we have discovered with the particle on a ring is that states can be degenerate in terms of their energy, total angular momentum, and the angular momentum projection. This means we have to be more careful when we calculate probabilities and expectation values.
 
-Consider a normalized superposition state for a particle (mass $\mu$) constrainted to a ring of radius $r_0$. The superposition state is given by:
+Consider a normalized superposition state for a particle (mass $\mu$) constrained to a ring of radius $r_0$. The superposition state is given by:
 
 $$\ket{\psi} = \dfrac{\sqrt{3}}{2}\ket{3} + \dfrac{i}{2}\ket{-2}$$
 
