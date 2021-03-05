@@ -69,6 +69,8 @@ use_math: true
   * [Handwritten Notes from Discussion](./in-class/Day_18.pdf)
 * No Class - Wed. Mar 3rd
 * [Day 19 - Fri. Mar 5th](./in-class/day19.html)
+  * Class Recording [(YouTube)](https://www.youtube.com/watch?v=OK7-nwW3rDU)
+  * [Handwritten Notes from Discussion](./in-class/Day_19.pdf)
 
 ### Homework
 
