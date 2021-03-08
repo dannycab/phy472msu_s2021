@@ -10,11 +10,11 @@ use_math: true
 
 One of the useful things about the position representation of operators is that we can rewrite them in ways that fit the symmetry of our problem. For a spherically symmetric potential, it makes sense to use spherical coordinates.
 
-$$x = r \cos \theta \sin \phi$$
+$$x = r \sin \theta \cos \phi$$
 
 $$y = r \sin \theta \sin \phi$$
 
-$$z = r \cos \phi$$
+$$z = r \cos \theta$$
 
 1. Consider the $L_x$ operator ($L_x = yp_z - zp_y$). Write the position representation of the operator in Cartesian coordinates.
 2. Now the associated Cartesian partial derivatives can be written in terms of spherical partial derivatives using the chain rule. For example, $\dfrac{\partial}{\partial y} = \dfrac{\partial r}{\partial y}\dfrac{\partial}{\partial r}+\dfrac{\partial \theta}{\partial y}\dfrac{\partial}{\partial \theta}+\dfrac{\partial \phi}{\partial y}\dfrac{\partial}{\partial \phi}$. Find $\dfrac{\partial}{\partial y}$ in terms of $r$, $\theta$, and $\phi$. *Hint: think about how we define the spherical cooridinates in terms of Cartesian coordinates.*
