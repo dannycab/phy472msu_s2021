@@ -29,7 +29,9 @@ use_math: true
 
 ### In-Class Activities
 
-* Day 20 - Mon. Mar 8th
+* Day 20 - Mon. Mar 8th (no in-class)
+  * Class Recording [(YouTube)](https://www.youtube.com/watch?v=noLDqCIuqlw)
+  * [Handwritten Notes from Discussion](./in-class/Day_20.pdf)
 * Day 21 - Wed. Mar 10th
 * Day 22 - Fri. Mar 12th
 
