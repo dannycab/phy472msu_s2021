@@ -19,7 +19,7 @@ $$z = r \cos \theta$$
 1. Consider the $L_x$ operator ($L_x = yp_z - zp_y$). Write the position representation of the operator in Cartesian coordinates.
 2. Now the associated Cartesian partial derivatives can be written in terms of spherical partial derivatives using the chain rule. For example, $\dfrac{\partial}{\partial y} = \dfrac{\partial r}{\partial y}\dfrac{\partial}{\partial r}+\dfrac{\partial \theta}{\partial y}\dfrac{\partial}{\partial \theta}+\dfrac{\partial \phi}{\partial y}\dfrac{\partial}{\partial \phi}$. Find $\dfrac{\partial}{\partial y}$ in terms of $r$, $\theta$, and $\phi$. *Hint: think about how we define the spherical cooridinates in terms of Cartesian coordinates.*
 3. Do the same calculation for $\dfrac{\partial}{\partial z}$. That is, find $\dfrac{\partial}{\partial z}$ in terms of $r$, $\theta$, and $\phi$.
-4. Show that you can rewrite $L_x$ in spherical coordinates.You should get: $L_z \doteq i\hbar \left(\sin \phi \dfrac{\partial}{\partial \theta} + \cos \phi \cot \theta \dfrac{\partial}{\partial \phi} \right)$
+4. Show that you can rewrite $L_x$ in spherical coordinates.You should get: $L_x \doteq i\hbar \left(\sin \phi \dfrac{\partial}{\partial \theta} + \cos \phi \cot \theta \dfrac{\partial}{\partial \phi} \right)$
 5. Show that you can rewrite $L_z$ in spherical coordinates. You should get: $L_z \doteq -i\hbar \dfrac{\partial}{\partial \phi}$
 
 ## 2. Considering degeneracy
@@ -40,7 +40,7 @@ Note that the states that make up this superposition state are $L_z$ eigenstates
 
 ## 3. Time evolution - particle on a ring
 
-Recall that to use our simple energy expansion, we need to be working with eigenstates of Hamilitonian. Then we can use the $e^{-iEt/\hbar}$ expansion. Consider a superposition state for a particle constrained to a ring. We again write it using eigenstates of the $L_z$ operator:
+Recall that to use our simple energy expansion, we need to be working with eigenstates of Hamiltonian. Then we can use the $e^{-iEt/\hbar}$ expansion. Consider a superposition state for a particle constrained to a ring. We again write it using eigenstates of the $L_z$ operator:
 
 $$\ket{\psi} = \sqrt{\dfrac{1}{5}}\ket{2} - i\sqrt{\dfrac{4}{5}}\ket{-1}$$
 
