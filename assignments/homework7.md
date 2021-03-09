@@ -40,7 +40,7 @@ Note that the states that make up this superposition state are $L_z$ eigenstates
 
 ## 3. Time evolution - particle on a ring
 
-Recall that to use our simple energy expansion, we need to be working with eigenstates of Hamilitonian. Then we can use the $e^{iEt/\hbar}$ expansion. Consider a superposition state for a particle constrained to a ring. We again write it using eigenstates of the $L_z$ operator:
+Recall that to use our simple energy expansion, we need to be working with eigenstates of Hamilitonian. Then we can use the $e^{-iEt/\hbar}$ expansion. Consider a superposition state for a particle constrained to a ring. We again write it using eigenstates of the $L_z$ operator:
 
 $$\ket{\psi} = \sqrt{\dfrac{1}{5}}\ket{2} - i\sqrt{\dfrac{4}{5}}\ket{-1}$$
 
