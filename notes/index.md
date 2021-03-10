@@ -66,6 +66,8 @@ use_math: true
   * Class Recording [(YouTube)](https://www.youtube.com/watch?v=noLDqCIuqlw)
   * [Handwritten Notes from Discussion](./in-class/Day_20.pdf)
 * [Day 21 - Wed. Mar 10th](./in-class/day21.html)
+  * Class Recording [(YouTube)](https://www.youtube.com/watch?v=xSQ0C9yrOWY)
+  * [Handwritten Notes from Discussion](./in-class/Day_21.pdf)
 * Day 22 - Fri. Mar 12th
 
 ### Homework
