@@ -44,6 +44,13 @@ $$N=\dfrac{1}{\sqrt{\dfrac{\pi^5}{8}+2\pi^3 - 24\pi^2 + 48 \pi}}$$
 2. What is probability that a measurement of $\mathbf{L}^2$ will yield $2\hbar^2$? $0\hbar^2$? Comment on how degeneracy features (or not) in these calculations.
 3. What is the probability that the particle can be found in the region $0 < \theta <\pi/6$? What about between $5\pi/6 < \theta <\pi$?
 
-## 4.
+## 4. Legendre Polynomial Expansion
 
-7.28 as a notebook.
+**You will turn in the plots for this question using a [Dropbox file request](https://www.dropbox.com/request/vvOB498WGKCcqBgIWJZC). Turn in the notebook, not a PDF of it.**
+
+Legendre polynomials form a basis (much like sine and cosine). In this problem, you will perform an expansion of a function using Legendre polynomials and compare your estimated function against the actual function.
+
+1. Consider the function $\sin(\pi z)$. Using [Fourier's trick for Legendre polynomials](https://mathworld.wolfram.com/Fourier-LegendreSeries.html), find the first two coefficients of the expansion ($a_0$ and $a_1$). You may use an integration tool of your choosing, but show how you setup the integrals. Hint: WolframAlpha has a builtin function for Legendre Polynomials called `legendreP(n,x)` where $n$ is the order of the polynomial and $x$ is the independent variable.
+2. Now find the first ten coefficients. No need to set up, you quote your results from your integrator.
+3. **Parts 3 and 4 should appear in a Jupyter notebook of your own making.** Plot the original function along with successive approximations from $n=0$ to $n=9$ from $-1 < x < 1$. At what order do the approximations look representative of the function? How does that compare to the coefficients generated in part 2?
+4. Expand your graph from $-2 < x < 2$. How do your fits look now? Why might they not be very good anymore?
