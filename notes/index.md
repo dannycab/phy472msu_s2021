@@ -4,6 +4,39 @@ title: Quantum Mechanics II Spring 2021 Notes and Activities
 permalink: notes/index.html
 use_math: true
 ---
+## Week 9 - The Hydrogen Atom and the Radial Equation
+
+### Pre-class survey (Due Sunday Mar 14th)
+
+* Read through the posted notes and watch the posted videos (below).
+* Complete the [pre-class survey for Week 9](https://msu.co1.qualtrics.com/jfe/form/SV_6gSvFNnmkbUANOl) by Sunday Mar 14th at 11:59pm.
+* Make sure to copy your questions about this week's notes in the [D2L Week 9 pre-class assignment](https://d2l.msu.edu) by 11:59pm on Sunday Mar 14th to receive credit.
+
+### Course Notes & Videos
+
+#### Videos
+
+* Coming soon...
+
+
+#### Notes
+
+* [**21 - The Radial Equation (PDF)**](./handwritten/21 - The Radial Equation.pdf)
+
+### In-Class Activities
+
+* Day 23 - Mon. Mar 15th
+* Day 24 - Wed. Mar 17th
+* Day 25 - Fri. Mar 19th
+
+### Homework
+
+* [Homework 8 (Due Friday Mar 19th)](../assignments/homework8.html)
+* Turn in the paper-based homework via [Gradescope](https://www.gradescope.com/).
+<!-- * Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/snFW1zlAvuID9XedUo78). -->
+
+---
+
 ## Week 8 - Separation of Variables II
 
 ### Pre-class survey (Due Sunday Mar 7th)
@@ -32,7 +65,7 @@ use_math: true
 * Day 20 - Mon. Mar 8th (no in-class)
   * Class Recording [(YouTube)](https://www.youtube.com/watch?v=noLDqCIuqlw)
   * [Handwritten Notes from Discussion](./in-class/Day_20.pdf)
-* Day 21 - Wed. Mar 10th
+* [Day 21 - Wed. Mar 10th](./in-class/day21.html)
 * Day 22 - Fri. Mar 12th
 
 ### Homework

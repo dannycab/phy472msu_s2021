@@ -20,7 +20,7 @@ use_math: true
 | 5       |  |  | 15 Feb - 19 Feb   |  |  |  | Uncertainty Principle & Barriers; 6.3-6.5            |  |  |  | [Homework 5](./assignments/homework5.html)          |  |  |  |  Quiz 2        |
 | 6       |  |  | 22 Feb - 26 Feb   |  |  |  | 3D QM & Angular Momentum; 7.1-7.3                    |  |  |  | [Homework 6](./assignments/homework6.html)        |  |  |  |               |
 | 7       |  |  | 01 Mar - 05 Mar   |  |  |  | Separation of Variables & Motion on Ring; 7.4-7.5    |  |  |  | [Homework 7](./assignments/homework7.html)         |  |  |  |               |
-| 8       |  |  | 08 Mar - 12 Mar   |  |  |  | Motion on a Sphere; Spherical Harmonics; 7.6         |  |  |  | Homework 8         |  |  |  | Quiz 3        |
+| 8       |  |  | 08 Mar - 12 Mar   |  |  |  | Motion on a Sphere; Spherical Harmonics; 7.6         |  |  |  | [Homework 8](./assignments/homework8.html)          |  |  |  | Quiz 3        |
 | 9       |  |  | 15 Mar - 19 Mar   |  |  |  | Hydrogen Atom & Spectrum; 8.1-8.3                    |  |  |  | Homework 9         |  |  |  |               |
 | 10      |  |  | 22 Mar - 26 Mar   |  |  |  | Hydrogen Wave Functions; 8.4-8.5                     |  |  |  | Homework 10        |  |  |  |               |
 | 11      |  |  | 29 Mar - 02 Apr   |  |  |  | Quantum Harmonic Oscillator; 9.1-9.2                 |  |  |  | Homework 11        |  |  |  | Quiz 4        |

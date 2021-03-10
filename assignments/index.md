@@ -17,3 +17,4 @@ Analytical (pencil and paper) homework is turned in using [Gradescope](https://w
 * [Homework 5 (Due Feb 26th)](./homework5.html)
 * [Homework 6 (Due Mar 5th)](./homework6.html)
 * [Homework 7 (Due Mar 12th)](./homework7.html)
+* [Homework 8 (Due Mar 19th)](./homework8.html)
