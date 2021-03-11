@@ -42,7 +42,7 @@ $$N=\dfrac{1}{\sqrt{\dfrac{\pi^5}{8}+2\pi^3 - 24\pi^2 + 48 \pi}}$$
 
 1. Find the coefficients for the $\ket{lm} = \ket{00}, \ket{1,-1}, \ket{10},$ and $\ket{11}$ terms in a spherical harmonics expansion of $\psi(\theta,\phi)$. Recall you only need to perform the overlap integrals to find these coefficients. Use any integration tools you like to do so, but show that you can set up each integral.
 2. What is probability that a measurement of $\mathbf{L}^2$ will yield $2\hbar^2$? $0\hbar^2$? Comment on how degeneracy features (or not) in these calculations.
-3. What is the probability that the particle can be found in the region $0 < \theta <\pi/6$? What about between $5\pi/6 < \theta <\pi$?
+3. What is the probability that the particle can be found in the region $0 < \theta <\pi/6$ and $0 < \phi <\pi/6$? What about between $5\pi/6 < \theta <\pi$ and $0 < \phi <\pi/6$?
 
 ## 4. Legendre Polynomial Expansion
 
