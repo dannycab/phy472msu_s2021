@@ -16,7 +16,9 @@ use_math: true
 
 #### Videos
 
-* Coming soon...
+* [**The Radial Equation (YouTube)**](https://www.youtube.com/watch?v=5qFN2M1177o)
+* [**Working with Characteristic Scales (YouTube)**](https://www.youtube.com/watch?v=5i24QJRAuBw)
+* [**Solving the Radial Equation (YouTube)**](https://www.youtube.com/watch?v=L6kx3eCkKDo)
 
 
 #### Notes
@@ -33,7 +35,7 @@ use_math: true
 
 * [Homework 8 (Due Friday Mar 19th)](../assignments/homework8.html)
 * Turn in the paper-based homework via [Gradescope](https://www.gradescope.com/).
-<!-- * Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/snFW1zlAvuID9XedUo78). -->
+* Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/vvOB498WGKCcqBgIWJZC).
 
 ---
 
