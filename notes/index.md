@@ -4,6 +4,42 @@ title: Quantum Mechanics II Spring 2021 Notes and Activities
 permalink: notes/index.html
 use_math: true
 ---
+
+## Week 10 - Solving the Hydrogen Atom
+
+### Pre-class survey (Due Sunday Mar 21st)
+
+* Read through the posted notes and watch the posted videos (below).
+* Complete the [pre-class survey for Week 9](https://msu.co1.qualtrics.com/jfe/form/SV_6gSvFNnmkbUANOl) by Sunday Mar 21st at 11:59pm.
+* Make sure to copy your questions about this week's notes in the [D2L Week 9 pre-class assignment](https://d2l.msu.edu) by 11:59pm on Sunday Mar 21st to receive credit.
+
+### Course Notes & Videos
+
+#### Videos
+
+* Coming soon...
+
+
+#### Notes
+
+* [**22 - Radial Solutions (PDF)**](./handwritten/22 - Radial Solutions.pdf)
+* [**23 - Hydrogen-like Solutions (PDF)**](./handwritten/23 - Hydrogen-like Solutions.pdf)
+* [**24 - Superposition States (PDF)**](./handwritten/24 - Superposition States.pdf)
+
+### In-Class Activities
+
+* Day 26 - Mon. Mar 22nd
+* Day 27 - Wed. Mar 24th
+* Day 28 - Fri. Mar 26th
+
+### Homework
+
+<!-- * [Homework 9 (Due Friday Mar 26th)](../assignments/homework8.html)
+* Turn in the paper-based homework via [Gradescope](https://www.gradescope.com/).
+* Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/vvOB498WGKCcqBgIWJZC). -->
+
+---
+
 ## Week 9 - The Hydrogen Atom and the Radial Equation
 
 ### Pre-class survey (Due Sunday Mar 14th)
