@@ -21,7 +21,7 @@ use_math: true
 | 6       |  |  | 22 Feb - 26 Feb   |  |  |  | 3D QM & Angular Momentum; 7.1-7.3                    |  |  |  | [Homework 6](./assignments/homework6.html)        |  |  |  |               |
 | 7       |  |  | 01 Mar - 05 Mar   |  |  |  | Separation of Variables & Motion on Ring; 7.4-7.5    |  |  |  | [Homework 7](./assignments/homework7.html)         |  |  |  |               |
 | 8       |  |  | 08 Mar - 12 Mar   |  |  |  | Motion on a Sphere; Spherical Harmonics; 7.6         |  |  |  | [Homework 8](./assignments/homework8.html)          |  |  |  | Quiz 3        |
-| 9       |  |  | 15 Mar - 19 Mar   |  |  |  | Hydrogen Atom & Spectrum; 8.1-8.3                    |  |  |  | Homework 9         |  |  |  |               |
+| 9       |  |  | 15 Mar - 19 Mar   |  |  |  | Hydrogen Atom & Spectrum; 8.1-8.3                    |  |  |  | [Homework 9 ](./assignments/homework9.html)        |  |  |  |               |
 | 10      |  |  | 22 Mar - 26 Mar   |  |  |  | Hydrogen Wave Functions; 8.4-8.6                     |  |  |  | Homework 10        |  |  |  |               |
 | 11      |  |  | 29 Mar - 02 Apr   |  |  |  | Quantum Harmonic Oscillator; 9.1-9.2                 |  |  |  | Homework 11        |  |  |  | Quiz 4        |
 | 12      |  |  | 05 Apr - 09 Apr   |  |  |  | QHO Wave Functions & Matrix Representation; 9.3-9.5  |  |  |  | Homework 12        |  |  |  |               |

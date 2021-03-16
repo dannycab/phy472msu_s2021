@@ -34,9 +34,8 @@ use_math: true
 
 ### Homework
 
-<!-- * [Homework 9 (Due Friday Mar 26th)](../assignments/homework8.html)
-* Turn in the paper-based homework via [Gradescope](https://www.gradescope.com/).
-* Turn in your Jupyter notebooks via [Dropbox turn-in](https://www.dropbox.com/request/vvOB498WGKCcqBgIWJZC). -->
+* [Homework 9 (Due Friday Mar 26th)](../assignments/homework8.html)
+* Turn in your Project Plans via [Dropbox turn-in](https://www.dropbox.com/request/0VGrpQ7fkcuEXcRdRlQz).
 
 ---
 
