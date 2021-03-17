@@ -17,7 +17,9 @@ use_math: true
 
 #### Videos
 
-* Coming soon...
+* [**The Radial Eigenfunctions (YouTube)**](https://youtu.be/9n3JJVaNyzo)
+* [**Hydrogen-like Solutions (YouTube)**](https://youtu.be/n2N_nSGVJe0)
+* [**Time Evolution and Superposition States (YouTube)**](https://youtu.be/WVN-qjePdpQ)
 
 
 #### Notes
