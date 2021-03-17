@@ -67,7 +67,7 @@ use_math: true
 * Day 23 - Mon. Mar 15th (no in-class)
   * Class Recording [(YouTube)](https://www.youtube.com/watch?v=tF29ZVxYWww)
   * [Handwritten Notes from Discussion](./in-class/Day_23.pdf)
-* Day 24 - Wed. Mar 17th
+* [Day 24 - Wed. Mar 17th](./in-class/day24.html)
 * Day 25 - Fri. Mar 19th
 
 ### Homework
