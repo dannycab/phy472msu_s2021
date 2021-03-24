@@ -68,7 +68,7 @@ use_math: true
 * Day 26 - Mon. Mar 22nd (no in-class)
   - Class Recording [(YouTube)](https://www.youtube.com/watch?v=FAWNmJce3AE)
   - [Handwritten Notes from Discussion](./in-class/Day_26.pdf)
-* Day 27 - Wed. Mar 24th
+* [Day 27 - Wed. Mar 24th](./in-class/day27.html)
 * Day 28 - Fri. Mar 26th
 
 ### Homework
