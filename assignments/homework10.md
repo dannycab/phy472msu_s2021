@@ -33,9 +33,11 @@ Again, consider a Hydrogen atom with an electron in the $n=2$ state.
 We have seen that certain superpositions of energy eigenstates can lead to models of an oscillating and a stationary electric dipole moment (in class and examples 8.2 and 8.3), but let's investigate this further by using the electric dipole moment, $\mathbf{d} = q\mathbf{r}$ where $\mathbf{r} = x\hat{\mathbf{i}}+y\hat{\mathbf{j}}+z\hat{\mathbf{k}}$. You will determine $\langle \mathbf{d} \rangle$ for two superposition states.
 
 1. Consider the state $\ket{\psi_1} = \dfrac{1}{\sqrt{2}}\left(\ket{100}+\ket{200}\right)$. Time evolve this state and write the position representation of the time-evolved state in Cartesian coordinates.
-2. Calculate the expectation value of the electric dipole moment for this state, $\langle \mathbf{d}_1 \rangle$.
+2. Calculate the one dimensional probability density $P_1(z) = \int_{-\infty}^{+\infty} dx \int_{-\infty}^{+\infty} dy \vert \psi_1(x,y,z) \vert^2$.
+3. Calculate the expectation value of the electric dipole moment for this state, $\langle \mathbf{d}_1 \rangle$ using $P_1(z)$.
 3. Consider the state $\ket{\psi_2} = \dfrac{1}{\sqrt{2}}\left(\ket{200}+\ket{210}\right)$. Time evolve this state and write the position representation of the time-evolved state in Cartesian coordinates.
-4. Calculate the expectation value of the electric dipole moment for this state, $\langle \mathbf{d}_2 \rangle$.
+4. Calculate the one dimensional probability density $P_2(z) = \int_{-\infty}^{+\infty} dx \int_{-\infty}^{+\infty} dy \vert \psi_2(x,y,z) \vert^2$
+4. Calculate the expectation value of the electric dipole moment for this state, $\langle \mathbf{d}_2 \rangle$ using $P_2(z)$..
 5. Explain which model leads to an oscillating dipole and which leads to a stationary dipole and how you know. How do your results compare with the results from Examples 8.2 and 8.3 in McIntyre?
 
 ## 4. Simultaneous Eigenstates and Degeneracy
