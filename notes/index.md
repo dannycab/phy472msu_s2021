@@ -5,13 +5,48 @@ permalink: notes/index.html
 use_math: true
 ---
 
+## Week 11 - Quantum Harmonic Oscillator
+
+### Pre-class survey (Due Sunday Mar 28th)
+
+* Read through the posted notes and watch the posted videos (below).
+* Complete the [pre-class survey for Week 11](https://msu.co1.qualtrics.com/jfe/form/SV_6gSvFNnmkbUANOl) by Sunday Mar 28th at 11:59pm.
+* Make sure to copy your questions about this week's notes in the [D2L Week 11 pre-class assignment](https://d2l.msu.edu) by 11:59pm on Sunday Mar 28th to receive credit.
+
+### Course Notes & Videos
+
+#### Videos
+
+* [**Classical SHO (YouTube)**](https://www.youtube.com/watch?v=-F6nqAeBJdU)
+* [**Factoring the Hamiltonian for the QHO (YouTube)**](https://www.youtube.com/watch?v=iJXAKmGbnpw)
+* [**Energy Eigenvalues of the QHO (YouTube)**](https://www.youtube.com/watch?v=W0tQTyBSIsI)
+
+
+#### Notes
+
+* [**25 - Classical Harmonic Oscillator (PDF)**](./handwritten/25 - Classical SHO.pdf)
+* [**26 - Quantum Harmonic Oscillator (PDF)**](./handwritten/26 - Quantum Harmonic Oscillator.pdf)
+
+### In-Class Activities
+
+* Day 29 - Mon. Mar 29th
+* Day 30 - Wed. Mar 31st
+* Day 31 - Fri. Apr 2nd
+
+### Homework
+
+* [Homework 10 (Due Friday Apr 2nd)](../assignments/homework10.html)
+* Turn in the paper-based homework via [Gradescope](https://www.gradescope.com/).
+
+---
+
 ## Week 10 - Solving the Hydrogen Atom
 
 ### Pre-class survey (Due Sunday Mar 21st)
 
 * Read through the posted notes and watch the posted videos (below).
-* Complete the [pre-class survey for Week 9](https://msu.co1.qualtrics.com/jfe/form/SV_6gSvFNnmkbUANOl) by Sunday Mar 21st at 11:59pm.
-* Make sure to copy your questions about this week's notes in the [D2L Week 9 pre-class assignment](https://d2l.msu.edu) by 11:59pm on Sunday Mar 21st to receive credit.
+* Complete the [pre-class survey for Week 10](https://msu.co1.qualtrics.com/jfe/form/SV_6gSvFNnmkbUANOl) by Sunday Mar 21st at 11:59pm.
+* Make sure to copy your questions about this week's notes in the [D2L Week 10 pre-class assignment](https://d2l.msu.edu) by 11:59pm on Sunday Mar 21st to receive credit.
 
 ### Course Notes & Videos
 
@@ -38,7 +73,7 @@ use_math: true
 
 ### Homework
 
-* [Homework 9 (Due Friday Mar 26th)](../assignments/homework8.html)
+* [Homework 9 (Due Friday Mar 26th)](../assignments/homework9.html)
 * Turn in your Project Plans via [Dropbox turn-in](https://www.dropbox.com/request/0VGrpQ7fkcuEXcRdRlQz).
 
 ---
