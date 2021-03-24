@@ -10,7 +10,7 @@ We have begun to explore the Hydrogen atom. One of the important features of thi
 
 $$H\ket{nlm} = -\dfrac{c}{n^2}\ket{nlm}\;\mathrm{where}\; c = 13.6\mathrm{eV}$$
 
-$$\mathbf{L^2}\ket{nlm} = -l(l+1)\hbar^2\ket{nlm}$$
+$$\mathbf{L^2}\ket{nlm} = l(l+1)\hbar^2\ket{nlm}$$
 
 $$L_z\ket{nlm} = m\hbar\ket{nlm}$$
 
