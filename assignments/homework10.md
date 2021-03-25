@@ -40,6 +40,8 @@ We have seen that certain superpositions of energy eigenstates can lead to model
 4. Calculate the expectation value of the electric dipole moment for this state, $\langle \mathbf{d}_2 \rangle$ using $P_2(z)$.
 5. Explain which model leads to an oscillating dipole and which leads to a stationary dipole and how you know. How do your results compare with the results from Examples 8.2 and 8.3 in McIntyre?
 
+*Integrals F.17, F.18, and F.19, and F.20 are likely to be useful for this problem (page 550 of McIntyre)*
+
 ## 4. Simultaneous Eigenstates and Degeneracy
 
 Now that we have solved the Hydrogen atom, we know that states are $n^2$ degenerate in their energy. In addition, states sharing the same $l$ or the same $m$ are degenerate in $L^2$ and $L_z$. All of this has important implications for our analysis of a Hydrogen atom. Here, we explore these issues for a superposition state.
