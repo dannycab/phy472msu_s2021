@@ -71,7 +71,7 @@ use_math: true
 * [Day 27 - Wed. Mar 24th](./in-class/day27.html)
   - Class Recordings [Part 1 (YouTube)](https://www.youtube.com/watch?v=Zziv7QU2cB0) and [Part 2 (YouTube)](https://www.youtube.com/watch?v=6speWE6JaMI)
   - [Handwritten Notes from Discussion](./in-class/Day_27.pdf)
-* Day 28 - Fri. Mar 26th
+* [Day 28 - Fri. Mar 26th](./in-class/day28.html)
 
 ### Homework
 
