@@ -32,7 +32,7 @@ use_math: true
 * Day 29 - Mon. Mar 29th
   - Class Recording [(YouTube)](https://www.youtube.com/watch?v=-w66T8dbGgU)
   - [Handwritten Notes from Discussion](./in-class/Day_29.pdf)
-* Day 30 - Wed. Mar 31st
+* [Day 30 - Wed. Mar 31st](./in-class/day30.html)
 * Day 31 - Fri. Apr 2nd
 
 ### Homework
