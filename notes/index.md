@@ -5,6 +5,41 @@ permalink: notes/index.html
 use_math: true
 ---
 
+## Week 12 - Representations of the Quantum Harmonic Oscillator
+
+### Pre-class survey (Due Sunday Apr 4th)
+
+* Read through the posted notes and watch the posted videos (below).
+* Complete the [pre-class survey for Week 12](https://msu.co1.qualtrics.com/jfe/form/SV_6gSvFNnmkbUANOl) by Sunday Apr 4th at 11:59pm.
+* Make sure to copy your questions about this week's notes in the [D2L Week 12 pre-class assignment](https://d2l.msu.edu) by 11:59pm on Sunday Apr 4th to receive credit.
+
+### Course Notes & Videos
+
+#### Videos
+
+* [**Position Representation of the QHO (YouTube)**](https://www.youtube.com/watch?v=QneHFymMRAw)
+* [**Beyond the Ground State of the QHO (YouTube)**](https://www.youtube.com/watch?v=eGKl9TOsKtA)
+* [**Matrix Representation of the QHO (YouTube)**](https://www.youtube.com/watch?v=kdstB5VQjo4)
+
+
+#### Notes
+
+* [**27 - Wavefunctions of the QHO (PDF)**](./handwritten/27 - Wavefunctions of the QHO.pdf)
+* [**28 - Matrix Representations for the QHO (PDF)**](./handwritten/28 - Matrix Representations for the QHO.pdf)
+
+### In-Class Activities
+
+* Day 32 - Mon. Apr 5th
+* Day 33 - Wed. Apr 7th
+* Day 34 - Fri. Apr 9th
+
+### Homework
+
+* [Homework 11 (Due Friday Apr 9th)](../assignments/homework11.html)
+* Turn in the paper-based homework via [Gradescope](https://www.gradescope.com/).
+
+---
+
 ## Week 11 - Quantum Harmonic Oscillator
 
 ### Pre-class survey (Due Sunday Mar 28th)
