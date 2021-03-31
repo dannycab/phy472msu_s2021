@@ -14,8 +14,8 @@ $$\langle m \vert n \rangle = \delta_{m,n}$$
 
 But what about the position representation, $\langle x\vert n \rangle \doteq \varphi_n(x)$?
 
-1. Recall the ladder stop condition, $a\ket{0}=0$. Use the position representation to this operator applied to $\varphi_n(x)$ to derive the first order differential equation that $\varphi_n(x)$ satifies.
-2. Use the ansatz $\varphi_n(x) = A e^{-\alpha x^2}$ to determine $\alpha$.
+1. Recall the ladder stop condition, $a\ket{0}=0$. Use the position representation to this operator applied to $\varphi_0(x)$ to derive the first order differential equation that $\varphi_0(x)$ satifies.
+2. Use the ansatz $\varphi_0(x) = A e^{-\alpha x^2}$ to determine $\alpha$.
    - **Discussion:** Why would we try this particular ansatz?
 3. **Discussion:** You were likely to see $A$ drop out of your analysis. How could we determine $A$?
    - Use the approach your group decides to determine $A$.
