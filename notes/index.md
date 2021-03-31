@@ -36,7 +36,7 @@ use_math: true
 ### Homework
 
 * [Homework 11 (Due Friday Apr 9th)](../assignments/homework11.html)
-* Turn in the paper-based homework via [Gradescope](https://www.gradescope.com/).
+* Turn in your Project Updates via [Dropbox turn-in](https://www.dropbox.com/request/0YsVaRTewp0K4gd6Kkyc).
 
 ---
 
