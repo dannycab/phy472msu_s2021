@@ -70,7 +70,9 @@ use_math: true
 * [Day 30 - Wed. Mar 31st](./in-class/day30.html)
   - Class Recording [(YouTube)](https://www.youtube.com/watch?v=UvFY10Myvfs)
   - [Handwritten Notes from Discussion](./in-class/Day_30.pdf)
-* Day 31 - Fri. Apr 2nd
+* [Day 31 - Fri. Apr 2nd (same as Day 30)](./in-class/day30.html)
+  - Class Recording [(YouTube)](https://www.youtube.com/watch?v=L2GSUDocAdc)
+  - [Handwritten Notes from Discussion](./in-class/Day_31.pdf)
 
 ### Homework
 
