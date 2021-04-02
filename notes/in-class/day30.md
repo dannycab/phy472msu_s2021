@@ -29,4 +29,4 @@ What about the excited states? The ladder operators are meant to take us up and 
 3. Consider the norm of the state $a^{\dagger}\ket{n}$: $(\langle n \vert a)(a^{\dagger} \vert {n}\rangle)$. Use this to show $(\langle n \vert a)(a^{\dagger} \vert {n}\rangle) = n+1$.
 2. Assume that the raising operator acting on a state gives something that is proportional to the state above: $a^{\dagger}\ket{n} = c\ket{n+1}$. Find $c$. *You may assume it is real and positive.*
    - **Discussion** What if we didn't assume it was real and positive? Does that matter?
-3. How would we compute the normalized state $\ket{n-1}$ from $\ket{n}$? Write the formula given what you have done so far.
+3. How would we compute the normalized state $\ket{n+1}$ from $\ket{n}$? Write the formula given what you have done so far.
