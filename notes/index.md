@@ -30,6 +30,8 @@ use_math: true
 ### In-Class Activities
 
 * Day 32 - Mon. Apr 5th
+  - Class Recording [(YouTube)](https://www.youtube.com/watch?v=Cn7h8UPvROg)
+  - [Handwritten Notes from Discussion](./in-class/Day_32.pdf)
 * Day 33 - Wed. Apr 7th
 * Day 34 - Fri. Apr 9th
 
