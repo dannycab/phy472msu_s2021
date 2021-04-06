@@ -5,6 +5,16 @@ permalink: preclass.html
 use_math: true
 ---
 
+## Week 13
+
+### Pre-class survey (Due Sunday Apr 11th)
+
+* Read through the posted notes and watch the posted videos (below).
+* Complete the [pre-class survey for Week 13](https://msu.co1.qualtrics.com/jfe/form/SV_6gSvFNnmkbUANOl) by Sunday Apr 11th at 11:59pm.
+* Make sure to copy your questions about this week's notes in the [D2L Week 13 pre-class assignment](https://d2l.msu.edu) by 11:59pm on Sunday Apr 11th to receive credit.
+
+---
+
 ## Week 12
 
 ### Pre-class survey (Due Sunday Apr 4th)

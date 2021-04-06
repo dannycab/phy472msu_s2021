@@ -4,6 +4,39 @@ title: Quantum Mechanics II Spring 2021 Notes and Activities
 permalink: notes/index.html
 use_math: true
 ---
+## Week 13 - Non-degenerate Perturbation Theory
+
+### Pre-class survey (Due Sunday Apr 11th)
+
+* Read through the posted notes and watch the posted videos (below).
+* Complete the [pre-class survey for Week 13](https://msu.co1.qualtrics.com/jfe/form/SV_6gSvFNnmkbUANOl) by Sunday Apr 11th at 11:59pm.
+* Make sure to copy your questions about this week's notes in the [D2L Week 13 pre-class assignment](https://d2l.msu.edu) by 11:59pm on Sunday Apr 11th to receive credit.
+
+### Course Notes & Videos
+
+#### Videos
+
+* Coming soon.
+
+
+#### Notes
+
+* [**29 - Perturbation Theory - Two Level (PDF)**](./handwritten/29 - Perturbation Theory - Two Level.pdf)
+* [**30 - Perturbation Theory - Spin one half Example (PDF)**](./handwritten/30 - Perturbation Theory - Spin one half Example.pdf)
+* [**31 - Non-degenerate Perturbation Theory (PDF)**](./handwritten/31 - Non-degenerate Perturbation Theory.pdf)
+
+### In-Class Activities
+
+* Day 35 - Mon. Apr 512th
+* Day 36 - Wed. Apr 14th
+* Day 37 - Fri. Apr 16th
+
+### Homework
+
+* [Homework 12 (Due Friday Apr 16th)](../assignments/homework12.html)
+* Turn in the paper-based homework via [Gradescope](https://www.gradescope.com/).
+
+---
 
 ## Week 12 - Representations of the Quantum Harmonic Oscillator
 
