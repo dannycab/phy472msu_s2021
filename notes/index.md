@@ -16,7 +16,9 @@ use_math: true
 
 #### Videos
 
-* Coming soon.
+* [**Perturbation Theory - Two Level (YouTube)**](https://www.youtube.com/watch?v=R9wZjFY4Gsk)
+* [**Perturbation Theory - Spin one half Example (YouTube)**](https://www.youtube.com/watch?v=I0N6zhehBGs)
+* [**Non-degenerate Perturbation Theory (YouTube)**](https://www.youtube.com/watch?v=YYzqRN9P71k)
 
 
 #### Notes
@@ -27,7 +29,7 @@ use_math: true
 
 ### In-Class Activities
 
-* Day 35 - Mon. Apr 512th
+* Day 35 - Mon. Apr 12th
 * Day 36 - Wed. Apr 14th
 * Day 37 - Fri. Apr 16th
 
@@ -65,7 +67,7 @@ use_math: true
 * Day 32 - Mon. Apr 5th
   - Class Recording [(YouTube)](https://www.youtube.com/watch?v=Cn7h8UPvROg)
   - [Handwritten Notes from Discussion](./in-class/Day_32.pdf)
-* Day 33 - Wed. Apr 7th
+* [Day 33 - Wed. Apr 7th](./in-class/day33.html)
 * Day 34 - Fri. Apr 9th
 
 ### Homework
