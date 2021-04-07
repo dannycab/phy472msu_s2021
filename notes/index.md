@@ -68,6 +68,8 @@ use_math: true
   - Class Recording [(YouTube)](https://www.youtube.com/watch?v=Cn7h8UPvROg)
   - [Handwritten Notes from Discussion](./in-class/Day_32.pdf)
 * [Day 33 - Wed. Apr 7th](./in-class/day33.html)
+  - Class Recording [(YouTube)](https://www.youtube.com/watch?v=eKhEMvODIpw)
+  - [Handwritten Notes from Discussion](./in-class/Day_33.pdf)
 * Day 34 - Fri. Apr 9th
 
 ### Homework
