@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Final Project (Due Monday April 26th)
+title: Final Project
 use_math: true
 ---
 
