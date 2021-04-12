@@ -30,6 +30,8 @@ use_math: true
 ### In-Class Activities
 
 * Day 35 - Mon. Apr 12th
+  - Class Recording [(YouTube)](https://www.youtube.com/watch?v=wnS4p7YVF-Q)
+  - [Handwritten Notes from Discussion](./in-class/Day_35.pdf)
 * Day 36 - Wed. Apr 14th
 * Day 37 - Fri. Apr 16th
 
