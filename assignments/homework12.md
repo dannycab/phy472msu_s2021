@@ -34,7 +34,7 @@ Rewrite $\psi(x,\tau)$ in terms of the first three QHO states. Find the normaliz
 
 ## 3. Energy Measurements of a QHO
 
-We measure the energy of a particle (really a set of identically prepared systems) in a quantum harmonic well, $V(x) = \frac{1}{2}m\omega^2 x^2$. We find the probability of measuring $\frac{3}{2}\hbar\omega$ is 0.36 and the probability of measuring $\frac{5}{2}\hbar\omega$ is 0.64, with no other energy measurements giving any signal. The expectation value of the position, $\braket{x}$, for this particle is zero.
+We measure the energy of a particle (really a set of identically prepared systems) in a quantum harmonic well, $V(x) = \frac{1}{2}m\omega^2 x^2$. We find the probability of measuring $\frac{3}{2}\hbar\omega$ is 0.36 and the probability of measuring $\frac{5}{2}\hbar\omega$ is 0.64, with no other energy measurements giving any signal. The expectation value of the position, $\braket{x}$, is at a minimum at $t=0$.
 
 1. Using the information on energy measurements, construct the time evolved state for this system. Recall that the coefficients that characterize the contribution from each eigenstate can have an unknown phase that is undertermined without additional information. That is, do not choose the coefficients to be real and positive for the time being.
 2. Given the expectation value of position, can you determine the relative phase between the contributions to the time evolved state? Recall that an overall phase is meaningless.
