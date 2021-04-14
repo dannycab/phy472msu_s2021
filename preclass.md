@@ -5,6 +5,10 @@ permalink: preclass.html
 use_math: true
 ---
 
+## Week 14 (No Pre-Class)
+
+---
+
 ## Week 13
 
 ### Pre-class survey (Due Sunday Apr 11th)

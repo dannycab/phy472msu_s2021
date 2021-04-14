@@ -4,6 +4,26 @@ title: Quantum Mechanics II Spring 2021 Notes and Activities
 permalink: notes/index.html
 use_math: true
 ---
+
+## Week 14 - Non-degenerate Perturbation Theory
+
+### No Pre-class survey
+
+### No New Course Notes & Videos
+
+
+### In-Class Activities
+
+* Day 38 - Mon. Apr 18th
+* Day 39 - Wed. Apr 21st
+
+### Homework
+
+* [Homework 13 (Due Wednesday Apr 21st)](../assignments/homework13.html)
+* Turn in the paper-based homework via [Gradescope](https://www.gradescope.com/).
+
+---
+
 ## Week 13 - Non-degenerate Perturbation Theory
 
 ### Pre-class survey (Due Sunday Apr 11th)
@@ -32,7 +52,7 @@ use_math: true
 * Day 35 - Mon. Apr 12th
   - Class Recording [(YouTube)](https://www.youtube.com/watch?v=wnS4p7YVF-Q)
   - [Handwritten Notes from Discussion](./in-class/Day_35.pdf)
-* Day 36 - Wed. Apr 14th
+* [Day 36 - Wed. Apr 14th](./in-class/day36.html)
 * Day 37 - Fri. Apr 16th
 
 ### Homework

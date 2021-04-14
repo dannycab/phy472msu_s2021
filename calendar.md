@@ -24,6 +24,6 @@ use_math: true
 | 9       |  |  | 15 Mar - 19 Mar   |  |  |  | Hydrogen Atom & Spectrum; 8.1-8.3                    |  |  |  | [Homework 9 ](./assignments/homework9.html)        |  |  |  |               |
 | 10      |  |  | 22 Mar - 26 Mar   |  |  |  | Hydrogen Wave Functions; 8.4-8.6                     |  |  |  | [Homework 10](./assignments/homework10.html)        |  |  |  |               |
 | 11      |  |  | 29 Mar - 02 Apr   |  |  |  | Quantum Harmonic Oscillator; 9.1-9.2                 |  |  |  | [Homework 11](./assignments/homework11.html)        |  |  |  | Quiz 4        |
-| 12      |  |  | 05 Apr - 09 Apr   |  |  |  | QHO Wave Functions, Matrix Representation, & Time Dependence; 9.3-9.5; 9.8  |  |  |  | Homework 12        |  |  |  |               |
-| 13      |  |  | 12 Apr - 16 Apr   |  |  |  | Non-degenerate Perturbation Theory; 10.1-10.4            |  |  |  | Homework 13        |  |  |  |               |
+| 12      |  |  | 05 Apr - 09 Apr   |  |  |  | QHO Wave Functions, Matrix Representation, & Time Dependence; 9.3-9.5; 9.8  |  |  |  | [Homework 12](./assignments/homework12.html)         |  |  |  |               |
+| 13      |  |  | 12 Apr - 16 Apr   |  |  |  | Non-degenerate Perturbation Theory; 10.1-10.4            |  |  |  | [Homework 13](./assignments/homework13.html)        |  |  |  |               |
 | 14      |  |  | 19 Apr - 23 Apr   |  |  |  | Degenerate Perturbation Theory & Examples; 10.5-10.6       |  |  |  |        |  |  |  | Quiz 5        |
