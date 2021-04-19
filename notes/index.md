@@ -14,7 +14,7 @@ use_math: true
 
 ### In-Class Activities
 
-* Day 38 - Mon. Apr 18th
+* [Day 38 - Mon. Apr 18th](./in-class/day38.html)
 * Day 39 - Wed. Apr 21st
 
 ### Homework

@@ -24,7 +24,12 @@ Analytical (pencil and paper) homework is turned in using [Gradescope](https://w
 * [Homework 12 (Due Apr 16th)](./homework12.html)
 * [Homework 13 (Due Apr 21st)](./homework13.html) <- *Can turn in late -- until Sunday Apr. 25th*
 
-## Final Project
+## Final Project (Due April 29th at midnight)
 
 * [Guidelines](./finalproject.html)
 * [Rubric](./finalprojectrubric.html)
+
+
+- Your group can turn-in your project anytime before Thursday, April 29th at midnight. To do so, zip up your files (e.g., notebooks, code, slides, video, anything else) and upload it to the [Dropbox file request](https://www.dropbox.com/request/TpydXQKRbVnKGchOdlHE)
+- I will review the turn-ins on the morning of April 30th and assign reviews. I will send you an individual email by noon on Friday the 30th with your reviewing assignments. Make sure to check your spam filter!
+- Your reviews will be due Sunday May 2nd by midnight. I expect this reviewing to take you 60-90 minutes. This gives you over 48 hours to complete the reviews. To conduct a review, you will [complete this form for every group you are assigned](https://msu.co1.qualtrics.com/jfe/form/SV_1LmfHHdFY5gc5Tw).

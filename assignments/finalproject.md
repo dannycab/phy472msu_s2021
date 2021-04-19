@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Final Project
+title: Final Project (Due April 29th at midnight)
 use_math: true
 ---
 
@@ -27,3 +27,9 @@ For grading the assignment, the structure will be:
 * 15% - Feedback From Other Student Evaluations (you will be asked to review some small number of other students projects)
 * 10% - How Well You Reviewed Other Students Evaluations (your feedback will be reviewed for quality and depth)
 * 15% - Feedback From Your Group Mates
+
+## Turn-In Procedure
+
+- Your group can turn-in your project anytime before Thursday, April 29th at midnight. To do so, zip up your files (e.g., notebooks, code, slides, video, anything else) and upload it to the [Dropbox file request](https://www.dropbox.com/request/TpydXQKRbVnKGchOdlHE)
+- I will review the turn-ins on the morning of April 30th and assign reviews. I will send you an individual email by noon on Friday the 30th with your reviewing assignments. Make sure to check your spam filter!
+- Your reviews will be due Sunday May 2nd by midnight. I expect this reviewing to take you 60-90 minutes. This gives you over 48 hours to complete the reviews. To conduct a review, you will [complete this form for every group you are assigned](https://msu.co1.qualtrics.com/jfe/form/SV_1LmfHHdFY5gc5Tw).
