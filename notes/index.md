@@ -15,6 +15,8 @@ use_math: true
 ### In-Class Activities
 
 * [Day 38 - Mon. Apr 18th](./in-class/day38.html)
+  - Class Recording [(YouTube)](https://www.youtube.com/watch?v=lq0A_r5Gy8E)
+  - [Handwritten Notes from Discussion](./in-class/Day_38.pdf)
 * Day 39 - Wed. Apr 21st
 
 ### Homework
